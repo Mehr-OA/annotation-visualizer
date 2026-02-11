@@ -80,7 +80,7 @@ The application is divided into two distinct views accessible via navigation tab
 The file must contain a sentences array (for the text flow) and an entities array (for global definitions).
 
 Example:
-```
+```json
 {
   "entities": [
     {
@@ -117,7 +117,7 @@ To utilize the auto-coloring and type detection features, nodes (subject/object)
 `"Label Text; Entity Type"`
 
 Example:
-```
+```json
 {
   "triples": [
     {
