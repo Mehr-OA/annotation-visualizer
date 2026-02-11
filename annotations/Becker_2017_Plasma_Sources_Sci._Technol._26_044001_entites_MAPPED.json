@@ -1,0 +1,2054 @@
+{
+    "entities": [
+        {
+            "id": 0,
+            "label": "Advanced fluid modeling",
+            "class": "Method"
+        },
+        {
+            "id": 1,
+            "label": "fluid modeling",
+            "class": "Method"
+        },
+        {
+            "id": 2,
+            "label": "PIC/MCC simulations",
+            "class": "Method"
+        },
+        {
+            "id": 3,
+            "label": "ccrf discharges",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 4,
+            "label": "To",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 5,
+            "label": "Heating mode transition",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 6,
+            "label": "capacitively coupled CF 4 discharges:",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 7,
+            "label": "CF 4",
+            "class": "Material Substance"
+        },
+        {
+            "id": 8,
+            "label": "glow discharge",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 9,
+            "label": "nitrogen",
+            "class": "Material Substance"
+        },
+        {
+            "id": 10,
+            "label": "sub-atmospheric pressure",
+            "class": "Property"
+        },
+        {
+            "id": 11,
+            "label": "pressure",
+            "class": "Quantity"
+        },
+        {
+            "id": 12,
+            "label": "quasi-steady state",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 13,
+            "label": "plasma processing",
+            "class": "Application Field"
+        },
+        {
+            "id": 14,
+            "label": "plasma-enhanced chemical vapor deposition",
+            "class": "Application Field"
+        },
+        {
+            "id": 15,
+            "label": "plasma etching",
+            "class": "Application Field"
+        },
+        {
+            "id": 16,
+            "label": "experimental diagnostics,",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 17,
+            "label": "numerical modeling",
+            "class": "Method"
+        },
+        {
+            "id": 18,
+            "label": "discharge physics",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 19,
+            "label": "Carlo collision",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 20,
+            "label": "collision",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 21,
+            "label": "theoretical description",
+            "class": "Method"
+        },
+        {
+            "id": 22,
+            "label": "PIC/MCC method,",
+            "class": "Method"
+        },
+        {
+            "id": 23,
+            "label": "space",
+            "class": "Quantity"
+        },
+        {
+            "id": 24,
+            "label": "time",
+            "class": "Quantity"
+        },
+        {
+            "id": 25,
+            "label": "particle-particle and particle-wall interactions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 26,
+            "label": "particle-wall interactions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 27,
+            "label": "self-consistently determined space charge field",
+            "class": "Quantity"
+        },
+        {
+            "id": 28,
+            "label": "space charge field",
+            "class": "Quantity"
+        },
+        {
+            "id": 29,
+            "label": "continuum) models,",
+            "class": "Method"
+        },
+        {
+            "id": 30,
+            "label": "hydrodynamic description",
+            "class": "Method"
+        },
+        {
+            "id": 31,
+            "label": "PIC/MCC simulations,",
+            "class": "Method"
+        },
+        {
+            "id": 32,
+            "label": "numerical solution",
+            "class": "Method"
+        },
+        {
+            "id": 33,
+            "label": "fluid models",
+            "class": "Method"
+        },
+        {
+            "id": 34,
+            "label": "practical applications",
+            "class": "Application Field"
+        },
+        {
+            "id": 35,
+            "label": "fluid approach",
+            "class": "Method"
+        },
+        {
+            "id": 36,
+            "label": "fluid description",
+            "class": "Method"
+        },
+        {
+            "id": 37,
+            "label": "charged particles'",
+            "class": "Material Substance"
+        },
+        {
+            "id": 38,
+            "label": "dimension",
+            "class": "Quantity"
+        },
+        {
+            "id": 39,
+            "label": "modeling approaches",
+            "class": "Method"
+        },
+        {
+            "id": 40,
+            "label": "kinetic simulations",
+            "class": "Method"
+        },
+        {
+            "id": 41,
+            "label": "hybrid methods",
+            "class": "Method"
+        },
+        {
+            "id": 42,
+            "label": "electrons",
+            "class": "Medium"
+        },
+        {
+            "id": 43,
+            "label": "electron",
+            "class": "Material Substance"
+        },
+        {
+            "id": 44,
+            "label": "integral plasma model",
+            "class": "Method"
+        },
+        {
+            "id": 45,
+            "label": "electrons",
+            "class": "Material Substance"
+        },
+        {
+            "id": 46,
+            "label": "physically based fluid model",
+            "class": "Method"
+        },
+        {
+            "id": 47,
+            "label": "fluid model",
+            "class": "Method"
+        },
+        {
+            "id": 48,
+            "label": "electric field",
+            "class": "Quantity"
+        },
+        {
+            "id": 49,
+            "label": "electron swarms",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 50,
+            "label": "nonuniform electric fields",
+            "class": "Quantity"
+        },
+        {
+            "id": 51,
+            "label": "electric fields",
+            "class": "Quantity"
+        },
+        {
+            "id": 52,
+            "label": "light particles",
+            "class": "Material Substance"
+        },
+        {
+            "id": 53,
+            "label": "cross sections",
+            "class": "Quantity"
+        },
+        {
+            "id": 54,
+            "label": "nonlocal ionization",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 55,
+            "label": "ionization",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 56,
+            "label": "non-local collisionless electron heat flux",
+            "class": "Quantity"
+        },
+        {
+            "id": 57,
+            "label": "collisionless electron heat flux",
+            "class": "Quantity"
+        },
+        {
+            "id": 58,
+            "label": "electron heat flux",
+            "class": "Quantity"
+        },
+        {
+            "id": 59,
+            "label": "collisionless electron heating",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 60,
+            "label": "electron heating",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 61,
+            "label": "four-moment description",
+            "class": "Method"
+        },
+        {
+            "id": 62,
+            "label": "hydrodynamic plasma description",
+            "class": "Method"
+        },
+        {
+            "id": 63,
+            "label": "moment equations",
+            "class": "Method"
+        },
+        {
+            "id": 64,
+            "label": "flux)",
+            "class": "Quantity"
+        },
+        {
+            "id": 65,
+            "label": "heavy particles,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 66,
+            "label": "flux",
+            "class": "Quantity"
+        },
+        {
+            "id": 67,
+            "label": "mean energy density)",
+            "class": "Quantity"
+        },
+        {
+            "id": 68,
+            "label": "energy density)",
+            "class": "Quantity"
+        },
+        {
+            "id": 69,
+            "label": "fluid approaches",
+            "class": "Method"
+        },
+        {
+            "id": 70,
+            "label": "negative streamer fronts",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 71,
+            "label": "streamer fronts",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 72,
+            "label": "neon,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 73,
+            "label": "classical fluid model",
+            "class": "Method"
+        },
+        {
+            "id": 74,
+            "label": "local field approximation",
+            "class": "Method"
+        },
+        {
+            "id": 75,
+            "label": "gas discharge",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 76,
+            "label": "mean energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 77,
+            "label": "LMEA based drift-diffusion approximation",
+            "class": "Method"
+        },
+        {
+            "id": 78,
+            "label": "drift-diffusion approximation",
+            "class": "Method"
+        },
+        {
+            "id": 79,
+            "label": "four-moment model",
+            "class": "Method"
+        },
+        {
+            "id": 80,
+            "label": "dc glow discharge",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 81,
+            "label": "low and atmospheric pressure",
+            "class": "Property"
+        },
+        {
+            "id": 82,
+            "label": "atmospheric pressure",
+            "class": "Property"
+        },
+        {
+            "id": 83,
+            "label": "drift-diffusion approach",
+            "class": "Method"
+        },
+        {
+            "id": 84,
+            "label": "modified fluid descriptions",
+            "class": "Method"
+        },
+        {
+            "id": 85,
+            "label": "fluid and particle methods",
+            "class": "Method"
+        },
+        {
+            "id": 86,
+            "label": "PIC/MCC simulation",
+            "class": "Method"
+        },
+        {
+            "id": 87,
+            "label": "helium",
+            "class": "Material Substance"
+        },
+        {
+            "id": 88,
+            "label": "Pa",
+            "class": "Unit"
+        },
+        {
+            "id": 89,
+            "label": "fluid and PIC/MCC simulation methods",
+            "class": "Method"
+        },
+        {
+            "id": 90,
+            "label": "gas pressure",
+            "class": "Medium"
+        },
+        {
+            "id": 91,
+            "label": "plasma properties",
+            "class": "Property"
+        },
+        {
+            "id": 92,
+            "label": "rf voltage",
+            "class": "Quantity"
+        },
+        {
+            "id": 93,
+            "label": "plasma density",
+            "class": "Quantity"
+        },
+        {
+            "id": 94,
+            "label": "ion flux",
+            "class": "Quantity"
+        },
+        {
+            "id": 95,
+            "label": "LMEA based fluid model",
+            "class": "Method"
+        },
+        {
+            "id": 96,
+            "label": "Pa)",
+            "class": "Unit"
+        },
+        {
+            "id": 97,
+            "label": "Boltzmann equation",
+            "class": "Method"
+        },
+        {
+            "id": 98,
+            "label": "convective term",
+            "class": "Method"
+        },
+        {
+            "id": 99,
+            "label": "momentum balance equation",
+            "class": "Method"
+        },
+        {
+            "id": 100,
+            "label": "ions",
+            "class": "Material Substance"
+        },
+        {
+            "id": 101,
+            "label": "secondary electron emission",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 102,
+            "label": "spatial and temporal variation of the electron energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 103,
+            "label": "electron energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 104,
+            "label": "electron momentum and energy transport",
+            "class": "Quantity"
+        },
+        {
+            "id": 105,
+            "label": "momentum",
+            "class": "Quantity"
+        },
+        {
+            "id": 106,
+            "label": "energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 107,
+            "label": "heat flux",
+            "class": "Quantity"
+        },
+        {
+            "id": 108,
+            "label": "electron heating mechanisms",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 109,
+            "label": "energy transport mechanisms",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 110,
+            "label": "drift-diffusion model",
+            "class": "Method"
+        },
+        {
+            "id": 111,
+            "label": "fluid modeling approach",
+            "class": "Method"
+        },
+        {
+            "id": 112,
+            "label": "lowpressure",
+            "class": "Property"
+        },
+        {
+            "id": 113,
+            "label": "argon",
+            "class": "Material Substance"
+        },
+        {
+            "id": 114,
+            "label": "fluid modeling approaches",
+            "class": "Method"
+        },
+        {
+            "id": 115,
+            "label": "distance",
+            "class": "Quantity"
+        },
+        {
+            "id": 116,
+            "label": "sinusoidal voltage",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 117,
+            "label": "frequency",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 118,
+            "label": "oscillating electric field",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 119,
+            "label": "electron density",
+            "class": "Quantity"
+        },
+        {
+            "id": 120,
+            "label": "positive ions",
+            "class": "Material Substance"
+        },
+        {
+            "id": 121,
+            "label": "argon",
+            "class": "Medium"
+        },
+        {
+            "id": 122,
+            "label": "charge carriers",
+            "class": "Material Substance"
+        },
+        {
+            "id": 123,
+            "label": "neutral background gas",
+            "class": "Medium"
+        },
+        {
+            "id": 124,
+            "label": "drift-diffusion approaches:",
+            "class": "Method"
+        },
+        {
+            "id": 125,
+            "label": "classical drift-diffusion model,",
+            "class": "Method"
+        },
+        {
+            "id": 126,
+            "label": "drift-diffusion model,",
+            "class": "Method"
+        },
+        {
+            "id": 127,
+            "label": "time-dependent two-moment model",
+            "class": "Method"
+        },
+        {
+            "id": 128,
+            "label": "continuity equation",
+            "class": "Method"
+        },
+        {
+            "id": 129,
+            "label": "balance equation",
+            "class": "Method"
+        },
+        {
+            "id": 130,
+            "label": "balance equations",
+            "class": "Method"
+        },
+        {
+            "id": 131,
+            "label": "Poisson equation",
+            "class": "Method"
+        },
+        {
+            "id": 132,
+            "label": "electric potential",
+            "class": "Quantity"
+        },
+        {
+            "id": 133,
+            "label": "elementary charge,",
+            "class": "Quantity"
+        },
+        {
+            "id": 134,
+            "label": "vacuum permittivity",
+            "class": "Quantity"
+        },
+        {
+            "id": 135,
+            "label": "ion and electron densities,",
+            "class": "Quantity"
+        },
+        {
+            "id": 136,
+            "label": "boundary conditions",
+            "class": "Method"
+        },
+        {
+            "id": 137,
+            "label": "fluid model equations",
+            "class": "Method"
+        },
+        {
+            "id": 138,
+            "label": "fluid modeling approaches,",
+            "class": "Method"
+        },
+        {
+            "id": 139,
+            "label": "PIC/ MCC simulation codes",
+            "class": "Method"
+        },
+        {
+            "id": 140,
+            "label": "benchmarking of the different fluid models",
+            "class": "Method"
+        },
+        {
+            "id": 141,
+            "label": "PIC/MCC simulation procedures",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 142,
+            "label": "particle density",
+            "class": "Quantity"
+        },
+        {
+            "id": 143,
+            "label": "energy density",
+            "class": "Quantity"
+        },
+        {
+            "id": 144,
+            "label": "coupled balance equations",
+            "class": "Method"
+        },
+        {
+            "id": 145,
+            "label": "particle flux",
+            "class": "Quantity"
+        },
+        {
+            "id": 146,
+            "label": "energy flux",
+            "class": "Quantity"
+        },
+        {
+            "id": 147,
+            "label": "energy flux dissipation frequencies",
+            "class": "Quantity"
+        },
+        {
+            "id": 148,
+            "label": "dissipation frequencies",
+            "class": "Quantity"
+        },
+        {
+            "id": 149,
+            "label": "frequencies",
+            "class": "Quantity"
+        },
+        {
+            "id": 150,
+            "label": "transport coefficients",
+            "class": "Quantity"
+        },
+        {
+            "id": 151,
+            "label": "These properties are given as integrals of the isotropic part f 0 and the first two contributions f 1 and f 2 to the anisotropy of the EVDF over the kinetic energy U of the electrons, respectively, according to e e e 0 Here, l e is the electron-energy-dependent",
+            "class": "Quantity"
+        },
+        {
+            "id": 152,
+            "label": "EVDF",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 153,
+            "label": "kinetic energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 154,
+            "label": "electrons,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 155,
+            "label": "mean electron energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 156,
+            "label": "source term",
+            "class": "Method"
+        },
+        {
+            "id": 157,
+            "label": "neutral gas atoms",
+            "class": "Material Substance"
+        },
+        {
+            "id": 158,
+            "label": "electronneutral collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 159,
+            "label": "collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 160,
+            "label": "elastic, exciting and ionizing collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 161,
+            "label": "ionizing",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 162,
+            "label": "ionizing collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 163,
+            "label": "density",
+            "class": "Quantity"
+        },
+        {
+            "id": 164,
+            "label": "temperature",
+            "class": "Quantity"
+        },
+        {
+            "id": 165,
+            "label": "mass",
+            "class": "Quantity"
+        },
+        {
+            "id": 166,
+            "label": "Boltzmann constant,",
+            "class": "Quantity"
+        },
+        {
+            "id": 167,
+            "label": "rate coefficients",
+            "class": "Quantity"
+        },
+        {
+            "id": 168,
+            "label": "excitation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 169,
+            "label": "energy rate coefficient",
+            "class": "Quantity"
+        },
+        {
+            "id": 170,
+            "label": "rate coefficient",
+            "class": "Quantity"
+        },
+        {
+            "id": 171,
+            "label": "energy dissipation",
+            "class": "Quantity"
+        },
+        {
+            "id": 172,
+            "label": "elastic collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 173,
+            "label": "electron-neutral collision cross sections",
+            "class": "Quantity"
+        },
+        {
+            "id": 174,
+            "label": "collision cross sections",
+            "class": "Quantity"
+        },
+        {
+            "id": 175,
+            "label": "excitation,",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 176,
+            "label": "momentum transfer",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 177,
+            "label": "elastic electron-neutral collisions,",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 178,
+            "label": "electron-neutral collisions,",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 179,
+            "label": "transport coefficients,",
+            "class": "Quantity"
+        },
+        {
+            "id": 180,
+            "label": "LMEA",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 181,
+            "label": "particle and energy fluxes",
+            "class": "Quantity"
+        },
+        {
+            "id": 182,
+            "label": "energy fluxes",
+            "class": "Quantity"
+        },
+        {
+            "id": 183,
+            "label": "particle and energy diffusion coefficients",
+            "class": "Quantity"
+        },
+        {
+            "id": 184,
+            "label": "energy space",
+            "class": "Quantity"
+        },
+        {
+            "id": 185,
+            "label": "numerical problems",
+            "class": "Method"
+        },
+        {
+            "id": 186,
+            "label": "consistent expressions",
+            "class": "Method"
+        },
+        {
+            "id": 187,
+            "label": "energy transport",
+            "class": "Quantity"
+        },
+        {
+            "id": 188,
+            "label": "simplified energy transport coefficients",
+            "class": "Quantity"
+        },
+        {
+            "id": 189,
+            "label": "energy transport coefficients",
+            "class": "Quantity"
+        },
+        {
+            "id": 190,
+            "label": "ion inertia",
+            "class": "Quantity"
+        },
+        {
+            "id": 191,
+            "label": "effective electric field",
+            "class": "Quantity"
+        },
+        {
+            "id": 192,
+            "label": "time-dependent momentum balance equation",
+            "class": "Method"
+        },
+        {
+            "id": 193,
+            "label": "mean velocity",
+            "class": "Quantity"
+        },
+        {
+            "id": 194,
+            "label": "discharge current density",
+            "class": "Quantity"
+        },
+        {
+            "id": 195,
+            "label": "current density",
+            "class": "Quantity"
+        },
+        {
+            "id": 196,
+            "label": "boundary effects",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 197,
+            "label": "modeling approaches,",
+            "class": "Method"
+        },
+        {
+            "id": 198,
+            "label": "reflection of particles",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 199,
+            "label": "emission of secondary electrons",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 200,
+            "label": "ions",
+            "class": "Medium"
+        },
+        {
+            "id": 201,
+            "label": "drift velocity",
+            "class": "Quantity"
+        },
+        {
+            "id": 202,
+            "label": "thermal velocity",
+            "class": "Quantity"
+        },
+        {
+            "id": 203,
+            "label": "boundary condition",
+            "class": "Method"
+        },
+        {
+            "id": 204,
+            "label": "electron energy balance equation",
+            "class": "Method"
+        },
+        {
+            "id": 205,
+            "label": "energy balance equation",
+            "class": "Method"
+        },
+        {
+            "id": 206,
+            "label": "boundary conditions,",
+            "class": "Method"
+        },
+        {
+            "id": 207,
+            "label": "energy balance equations",
+            "class": "Method"
+        },
+        {
+            "id": 208,
+            "label": "quasi-neutral state",
+            "class": "Property"
+        },
+        {
+            "id": 209,
+            "label": "initial density",
+            "class": "Quantity"
+        },
+        {
+            "id": 210,
+            "label": "charged particles",
+            "class": "Material Substance"
+        },
+        {
+            "id": 211,
+            "label": "mean ion velocity",
+            "class": "Quantity"
+        },
+        {
+            "id": 212,
+            "label": "velocity",
+            "class": "Quantity"
+        },
+        {
+            "id": 213,
+            "label": "charge-carrier density",
+            "class": "Quantity"
+        },
+        {
+            "id": 214,
+            "label": "periodic discharge",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 215,
+            "label": "nonlinearly coupled equations",
+            "class": "Method"
+        },
+        {
+            "id": 216,
+            "label": "semi-implicit time-stepping scheme",
+            "class": "Method"
+        },
+        {
+            "id": 217,
+            "label": "time-stepping scheme",
+            "class": "Method"
+        },
+        {
+            "id": 218,
+            "label": "time step used for the numerical solution",
+            "class": "Method"
+        },
+        {
+            "id": 219,
+            "label": "Poisson's equation",
+            "class": "Method"
+        },
+        {
+            "id": 220,
+            "label": "parabolic driftdiffusion equations",
+            "class": "Method"
+        },
+        {
+            "id": 221,
+            "label": "fluxes",
+            "class": "Quantity"
+        },
+        {
+            "id": 222,
+            "label": "hyperbolic system of moment equations",
+            "class": "Method"
+        },
+        {
+            "id": 223,
+            "label": "flux of ions",
+            "class": "Quantity"
+        },
+        {
+            "id": 224,
+            "label": "system\uf0a0(25)-(26)",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 225,
+            "label": "ion sound speed",
+            "class": "Quantity"
+        },
+        {
+            "id": 226,
+            "label": "sound speed",
+            "class": "Quantity"
+        },
+        {
+            "id": 227,
+            "label": "first-order upwind scheme",
+            "class": "Method"
+        },
+        {
+            "id": 228,
+            "label": "predictor-corrector approach",
+            "class": "Method"
+        },
+        {
+            "id": 229,
+            "label": "timecoupling of the equations",
+            "class": "Method"
+        },
+        {
+            "id": 230,
+            "label": "solution method",
+            "class": "Method"
+        },
+        {
+            "id": 231,
+            "label": "time step",
+            "class": "Method"
+        },
+        {
+            "id": 232,
+            "label": "physical and numerical boundary conditions",
+            "class": "Method"
+        },
+        {
+            "id": 233,
+            "label": "PIC/ MCC simulations",
+            "class": "Method"
+        },
+        {
+            "id": 234,
+            "label": "self-consistent electric field",
+            "class": "Quantity"
+        },
+        {
+            "id": 235,
+            "label": "PIC/MCC simulation codes",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 236,
+            "label": "space dimension",
+            "class": "Quantity"
+        },
+        {
+            "id": 237,
+            "label": "cloud-in-cell scheme,",
+            "class": "Method"
+        },
+        {
+            "id": 238,
+            "label": "charge distribution",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 239,
+            "label": "particle position",
+            "class": "Quantity"
+        },
+        {
+            "id": 240,
+            "label": "weight of superparticles",
+            "class": "Quantity"
+        },
+        {
+            "id": 241,
+            "label": "leapfrog method",
+            "class": "Method"
+        },
+        {
+            "id": 242,
+            "label": "leapfrog scheme",
+            "class": "Method"
+        },
+        {
+            "id": 243,
+            "label": "electrode surface",
+            "class": "Material Substance"
+        },
+        {
+            "id": 244,
+            "label": "elastic ion-neutral collisions,",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 245,
+            "label": "ion-neutral collisions,",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 246,
+            "label": "collision probability",
+            "class": "Quantity"
+        },
+        {
+            "id": 247,
+            "label": "nullcollision method",
+            "class": "Method"
+        },
+        {
+            "id": 248,
+            "label": "physical discharge model",
+            "class": "Method"
+        },
+        {
+            "id": 249,
+            "label": "collision processes",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 250,
+            "label": "energy thresholds",
+            "class": "Quantity"
+        },
+        {
+            "id": 251,
+            "label": "cross section",
+            "class": "Quantity"
+        },
+        {
+            "id": 252,
+            "label": "helium,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 253,
+            "label": "helium states,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 254,
+            "label": "ground state",
+            "class": "Material Substance"
+        },
+        {
+            "id": 255,
+            "label": "elastic ionneutral collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 256,
+            "label": "ionneutral collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 257,
+            "label": "ion crosssections",
+            "class": "Quantity"
+        },
+        {
+            "id": 258,
+            "label": "collisional impact",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 259,
+            "label": "ion-neutral collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 260,
+            "label": "momentum dissipation frequency",
+            "class": "Quantity"
+        },
+        {
+            "id": 261,
+            "label": "frequency",
+            "class": "Quantity"
+        },
+        {
+            "id": 262,
+            "label": "elastic electron-neutral and ion-neutral collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 263,
+            "label": "electron-neutral and ion-neutral collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 264,
+            "label": "electron impact excitation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 265,
+            "label": "energy loss",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 266,
+            "label": "JILA database",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 267,
+            "label": "ion energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 268,
+            "label": "energy flux dissipation",
+            "class": "Quantity"
+        },
+        {
+            "id": 269,
+            "label": "stationary, spatially homogeneous",
+            "class": "Property"
+        },
+        {
+            "id": 270,
+            "label": "eight-term approximation",
+            "class": "Method"
+        },
+        {
+            "id": 271,
+            "label": "electric field strengths",
+            "class": "Quantity"
+        },
+        {
+            "id": 272,
+            "label": "electron collision",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 273,
+            "label": "fluid models,",
+            "class": "Method"
+        },
+        {
+            "id": 274,
+            "label": "electron Boltzmann equation",
+            "class": "Method"
+        },
+        {
+            "id": 275,
+            "label": "ion momentum dissipation frequency",
+            "class": "Quantity"
+        },
+        {
+            "id": 276,
+            "label": "reduced electric field",
+            "class": "Quantity"
+        },
+        {
+            "id": 277,
+            "label": "ion mobility",
+            "class": "Quantity"
+        },
+        {
+            "id": 278,
+            "label": "measured data",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 279,
+            "label": "pressures",
+            "class": "Quantity"
+        },
+        {
+            "id": 280,
+            "label": "times",
+            "class": "Quantity"
+        },
+        {
+            "id": 281,
+            "label": "simulation results",
+            "class": "Method"
+        },
+        {
+            "id": 282,
+            "label": "velocity space diffusion",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 283,
+            "label": "space diffusion",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 284,
+            "label": "numerical input parameters",
+            "class": "Method"
+        },
+        {
+            "id": 285,
+            "label": "numerical parameters",
+            "class": "Method"
+        },
+        {
+            "id": 286,
+            "label": "PIC/MCC simulation results",
+            "class": "Method"
+        },
+        {
+            "id": 287,
+            "label": "energies",
+            "class": "Quantity"
+        },
+        {
+            "id": 288,
+            "label": "rf periods",
+            "class": "Quantity"
+        },
+        {
+            "id": 289,
+            "label": "periods",
+            "class": "Quantity"
+        },
+        {
+            "id": 290,
+            "label": "periodic results",
+            "class": "Method"
+        },
+        {
+            "id": 291,
+            "label": "(C1)",
+            "class": "Unit"
+        },
+        {
+            "id": 292,
+            "label": "(C4)",
+            "class": "Unit"
+        },
+        {
+            "id": 293,
+            "label": "periodic state",
+            "class": "Property"
+        },
+        {
+            "id": 294,
+            "label": "Fluid and PIC/MCC calculations",
+            "class": "Method"
+        },
+        {
+            "id": 295,
+            "label": "PIC/MCC calculations",
+            "class": "Method"
+        },
+        {
+            "id": 296,
+            "label": "amplitude of the applied voltage",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 297,
+            "label": "discharge current",
+            "class": "Quantity"
+        },
+        {
+            "id": 298,
+            "label": "PIC/MCC simulation procedures",
+            "class": "Method"
+        },
+        {
+            "id": 299,
+            "label": "applied voltage",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 300,
+            "label": "powered electrode",
+            "class": "Configuration"
+        },
+        {
+            "id": 301,
+            "label": "spatiotemporal behavior",
+            "class": "Property"
+        },
+        {
+            "id": 302,
+            "label": "electron and ion densities",
+            "class": "Quantity"
+        },
+        {
+            "id": 303,
+            "label": "ion (b) cross sections",
+            "class": "Quantity"
+        },
+        {
+            "id": 304,
+            "label": "particle energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 305,
+            "label": "(C1),",
+            "class": "Unit"
+        },
+        {
+            "id": 306,
+            "label": "(C2),",
+            "class": "Unit"
+        },
+        {
+            "id": 307,
+            "label": "(C3)",
+            "class": "Unit"
+        },
+        {
+            "id": 308,
+            "label": "Pa (C4)",
+            "class": "Unit"
+        },
+        {
+            "id": 309,
+            "label": "gas temperature",
+            "class": "Quantity"
+        },
+        {
+            "id": 310,
+            "label": "K",
+            "class": "Unit"
+        },
+        {
+            "id": 311,
+            "label": "voltage amplitude",
+            "class": "Quantity"
+        },
+        {
+            "id": 312,
+            "label": "gases",
+            "class": "Medium"
+        },
+        {
+            "id": 313,
+            "label": "density of fast electrons",
+            "class": "Quantity"
+        },
+        {
+            "id": 314,
+            "label": "applied voltage,",
+            "class": "Quantity"
+        },
+        {
+            "id": 315,
+            "label": "applied voltage,",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 316,
+            "label": "inelastic electronneutral collisions",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 317,
+            "label": "depletion",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 318,
+            "label": "threshold energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 319,
+            "label": "exciting collisions,",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 320,
+            "label": "collisions,",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 321,
+            "label": "macroscopic properties",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 322,
+            "label": "macroscopic quantities",
+            "class": "Method"
+        },
+        {
+            "id": 323,
+            "label": "kinetic PIC/MCC simulations",
+            "class": "Method"
+        },
+        {
+            "id": 324,
+            "label": "fixed discharge",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 325,
+            "label": "DDA53",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 326,
+            "label": "time averaged ion density",
+            "class": "Quantity"
+        },
+        {
+            "id": 327,
+            "label": "ion density",
+            "class": "Quantity"
+        },
+        {
+            "id": 328,
+            "label": "time and space averaged isotropic distribution",
+            "class": "Quantity"
+        },
+        {
+            "id": 329,
+            "label": "isotropic distribution",
+            "class": "Quantity"
+        },
+        {
+            "id": 330,
+            "label": "PIC/MCC results",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 331,
+            "label": "fluid results",
+            "class": "Method"
+        },
+        {
+            "id": 332,
+            "label": "PIC/MCC solution",
+            "class": "Material Substance"
+        },
+        {
+            "id": 333,
+            "label": "ion",
+            "class": "Material Substance"
+        },
+        {
+            "id": 334,
+            "label": "fluid model approaches",
+            "class": "Method"
+        },
+        {
+            "id": 335,
+            "label": "ion densities",
+            "class": "Quantity"
+        },
+        {
+            "id": 336,
+            "label": "time,",
+            "class": "Quantity"
+        },
+        {
+            "id": 337,
+            "label": "DDAn",
+            "class": "Material Substance"
+        },
+        {
+            "id": 338,
+            "label": "PIC/MCC",
+            "class": "Material Substance"
+        },
+        {
+            "id": 339,
+            "label": "fluid modeling results",
+            "class": "Method"
+        },
+        {
+            "id": 340,
+            "label": "Maxwellian",
+            "class": "Unit"
+        },
+        {
+            "id": 341,
+            "label": "electron and ion fluxes",
+            "class": "Quantity"
+        },
+        {
+            "id": 342,
+            "label": "grounded electrode",
+            "class": "Configuration"
+        },
+        {
+            "id": 343,
+            "label": "time shift",
+            "class": "Quantity"
+        },
+        {
+            "id": 344,
+            "label": "DDA53 fluid model",
+            "class": "Method"
+        },
+        {
+            "id": 345,
+            "label": "particle fluxes",
+            "class": "Quantity"
+        },
+        {
+            "id": 346,
+            "label": "time averaged ion fluxes",
+            "class": "Quantity"
+        },
+        {
+            "id": 347,
+            "label": "ion fluxes",
+            "class": "Quantity"
+        },
+        {
+            "id": 348,
+            "label": "applications",
+            "class": "Application Field"
+        },
+        {
+            "id": 349,
+            "label": "argon,",
+            "class": "Medium"
+        },
+        {
+            "id": 350,
+            "label": "plasma parameters",
+            "class": "Property"
+        },
+        {
+            "id": 351,
+            "label": "classical fluid models",
+            "class": "Method"
+        },
+        {
+            "id": 352,
+            "label": "fluid descriptions,",
+            "class": "Method"
+        },
+        {
+            "id": 353,
+            "label": "voltage",
+            "class": "Quantity"
+        },
+        {
+            "id": 354,
+            "label": "EVDF,",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 355,
+            "label": "density,",
+            "class": "Quantity"
+        },
+        {
+            "id": 356,
+            "label": "density, mean energy,",
+            "class": "Quantity"
+        },
+        {
+            "id": 357,
+            "label": "mean energy,",
+            "class": "Quantity"
+        },
+        {
+            "id": 358,
+            "label": "energy flux of electrons",
+            "class": "Quantity"
+        },
+        {
+            "id": 359,
+            "label": "electric field,",
+            "class": "Quantity"
+        },
+        {
+            "id": 360,
+            "label": "ionization rate",
+            "class": "Quantity"
+        },
+        {
+            "id": 361,
+            "label": "electron heating rate,",
+            "class": "Quantity"
+        },
+        {
+            "id": 362,
+            "label": "heating rate,",
+            "class": "Quantity"
+        },
+        {
+            "id": 363,
+            "label": "observed",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 364,
+            "label": "PIC/MCC data",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 365,
+            "label": "lower pressures,",
+            "class": "Property"
+        },
+        {
+            "id": 366,
+            "label": "pressures,",
+            "class": "Quantity"
+        },
+        {
+            "id": 367,
+            "label": "density of these fast electrons",
+            "class": "Quantity"
+        },
+        {
+            "id": 368,
+            "label": "ionization rate coefficient",
+            "class": "Quantity"
+        },
+        {
+            "id": 369,
+            "label": "current",
+            "class": "Quantity"
+        },
+        {
+            "id": 370,
+            "label": "electron generation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 371,
+            "label": "sheath width",
+            "class": "Quantity"
+        },
+        {
+            "id": 372,
+            "label": "spatial profiles of the electric field",
+            "class": "Quantity"
+        },
+        {
+            "id": 373,
+            "label": "PIC/MCC",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 374,
+            "label": "heating",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 375,
+            "label": "heating rate",
+            "class": "Quantity"
+        },
+        {
+            "id": 376,
+            "label": "transition",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 377,
+            "label": "electron heating rate",
+            "class": "Quantity"
+        },
+        {
+            "id": 378,
+            "label": "electron density,",
+            "class": "Quantity"
+        },
+        {
+            "id": 379,
+            "label": "energy,",
+            "class": "Quantity"
+        },
+        {
+            "id": 380,
+            "label": "ionization rate,",
+            "class": "Quantity"
+        },
+        {
+            "id": 381,
+            "label": "electron particle and energy fluxes",
+            "class": "Quantity"
+        },
+        {
+            "id": 382,
+            "label": "Ramsauer",
+            "class": "Material Substance"
+        },
+        {
+            "id": 383,
+            "label": "nonlocal transport effects",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 384,
+            "label": "DDAn approach",
+            "class": "Method"
+        },
+        {
+            "id": 385,
+            "label": "classical model",
+            "class": "Method"
+        },
+        {
+            "id": 386,
+            "label": "coinciding particle and energy transport",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 387,
+            "label": "Pa:",
+            "class": "Unit"
+        },
+        {
+            "id": 388,
+            "label": "electron energy transport,",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 389,
+            "label": "energetic electrons",
+            "class": "Material Substance"
+        },
+        {
+            "id": 390,
+            "label": "helium",
+            "class": "Medium"
+        },
+        {
+            "id": 391,
+            "label": "DDAn",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 392,
+            "label": "dc glow discharges",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 393,
+            "label": "glow discharges",
+            "class": "Discharge Regime"
+        },
+        {
+            "id": 394,
+            "label": "Monte Carlo collision",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 395,
+            "label": "Monte Carlo collision method",
+            "class": "Method"
+        },
+        {
+            "id": 396,
+            "label": "fluid model description",
+            "class": "Method"
+        },
+        {
+            "id": 397,
+            "label": "collisionality",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 398,
+            "label": "fluid methods",
+            "class": "Method"
+        },
+        {
+            "id": 399,
+            "label": "time-dependent particle and momentum balance equations",
+            "class": "Method"
+        },
+        {
+            "id": 400,
+            "label": "particle and momentum balance equations",
+            "class": "Method"
+        },
+        {
+            "id": 401,
+            "label": "classical drift-diffusion approximation",
+            "class": "Method"
+        },
+        {
+            "id": 402,
+            "label": "driftdiffusion approximation",
+            "class": "Method"
+        },
+        {
+            "id": 403,
+            "label": "DDAn model",
+            "class": "Method"
+        },
+        {
+            "id": 404,
+            "label": "DDA53 approach",
+            "class": "Method"
+        },
+        {
+            "id": 405,
+            "label": "For",
+            "class": "Material Substance"
+        },
+        {
+            "id": 406,
+            "label": "argon,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 407,
+            "label": "lower pressures",
+            "class": "Property"
+        },
+        {
+            "id": 408,
+            "label": "fluid modeling framework",
+            "class": "Method"
+        },
+        {
+            "id": 409,
+            "label": "plasmaboundary interactions",
+            "class": "Physical Effect"
+        }
+    ]
+}

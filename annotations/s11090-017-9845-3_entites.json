@@ -1,0 +1,5573 @@
+{
+  "entities": [
+    {
+      "id": 0,
+      "text": "plasma sources",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "dielectric barrier discharge,",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "atmospheric pressure",
+      "type": "G#PlasmaProperties",
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "argon",
+      "type": "G#PlasmaMedium",
+      "confidence": 0.9999982118606567
+    },
+    {
+      "id": 4,
+      "text": "argon plasma jet,",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "plasma jet,",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "cancer cell",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "cytotoxicity assays,",
+      "type": "G#PlasmaApplication",
+      "confidence": 0.9917159676551819
+    },
+    {
+      "id": 8,
+      "text": "hydrogen peroxide (H 2 O 2)",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "(H 2",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "O 2)",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "inhibitory concentration",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "(IC50)",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "H 2",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "H 2 O 2",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "H 2 O 2 deposition",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "O 2",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "deposition",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "DBD,",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "DBD, IC50",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "total energy input",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "pulsing frequency,",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "frequency,",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "time,",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "liquid",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "plasma toxicity",
+      "type": "G#PhysicalEffect",
+      "confidence": 0.8611755967140198
+    },
+    {
+      "id": 26,
+      "text": "peroxide generation",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "plasma treatment",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "physical effects",
+      "type": "G#PhysicalEffect",
+      "confidence": 0.9999994039535522
+    },
+    {
+      "id": 29,
+      "text": "predefined cellular response",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "cellular response",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "Atmospheric pressure",
+      "type": "G#PlasmaProperties",
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "pressure",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "argon plasma jet",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "plasma jet",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "Dielectric",
+      "type": "G#PlasmaSource",
+      "confidence": 0.9999998807907104
+    },
+    {
+      "id": 36,
+      "text": "barrier discharge",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "Plasma medicine",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "plasma medicine,",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "gases",
+      "type": "G#PlasmaMedium",
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "physico-chemical effectors",
+      "type": "G#PhysicalEffect",
+      "confidence": 0.9999915361404419
+    },
+    {
+      "id": 41,
+      "text": "wound healing",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "cancer",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "plasma applications",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "in vivo models",
+      "type": "G#Modelling",
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "direct plasma applications,",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "UV-radiation",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "electrical fields",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "plasma sources,",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "floating-electrode dielectric barriers discharge",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "dielectric barriers discharge",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "cell growth reduction",
+      "type": "G#PlasmaApplication",
+      "confidence": 0.9497837424278259
+    },
+    {
+      "id": 52,
+      "text": "plasma active components",
+      "type": "G#PlasmaSource",
+      "confidence": 0.6330977082252502
+    },
+    {
+      "id": 53,
+      "text": "plasma medical research",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "physical characterization",
+      "type": "G#Experiment",
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "plasma effects",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "clinical device calibration,",
+      "type": "G#DiagnosticDevice",
+      "confidence": 0.999760091304779
+    },
+    {
+      "id": 57,
+      "text": "reactive species",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "skin cells",
+      "type": "G#Species",
+      "confidence": 0.8664661645889282
+    },
+    {
+      "id": 59,
+      "text": "immune cells",
+      "type": "G#Species",
+      "confidence": 0.9999535083770752
+    },
+    {
+      "id": 60,
+      "text": "cancer cells",
+      "type": "G#Species",
+      "confidence": 0.9999719858169556
+    },
+    {
+      "id": 61,
+      "text": "hydrogen peroxide",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 0.9981383085250854
+    },
+    {
+      "id": 62,
+      "text": "(H 2 O 2",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "for example, Fenton reaction",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 0.47814759612083435
+    },
+    {
+      "id": 64,
+      "text": "Fenton reaction",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "oxygenases",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "and in redox signaling events enabling the translation of redox events into distinct biological responses",
+      "type": "G#DiagnosticDevice",
+      "confidence": 0.9999984502792358
+    },
+    {
+      "id": 67,
+      "text": "redox signaling",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "redox signaling events",
+      "type": "G#PlasmaApplication",
+      "confidence": 0.9999514818191528
+    },
+    {
+      "id": 69,
+      "text": "redox signaling events enabling the",
+      "type": "G#PhysicalQuantity",
+      "confidence": 0.999995231628418
+    },
+    {
+      "id": 70,
+      "text": "necroptotic cell death pathway",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "DBD",
+      "type": "G#Species",
+      "confidence": 0.9999998807907104
+    },
+    {
+      "id": 72,
+      "text": "inhibition of CT26 metabolic activity",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "plasma-induced cell toxicity",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "cell culture medium",
+      "type": "G#DiagnosticDevice",
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "(FCS), 2%",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "glutamine,",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 0.9856768846511841
+    },
+    {
+      "id": 77,
+      "text": "penicillin/streptomycin",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 0.9999992847442627
+    },
+    {
+      "id": 78,
+      "text": "culturing",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 79,
+      "text": "humidified atmosphere",
+      "type": "G#PlasmaMedium",
+      "confidence": 1.0
+    },
+    {
+      "id": 80,
+      "text": "carbon dioxide",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 81,
+      "text": "DBD",
+      "type": "G#PlasmaSource",
+      "confidence": 0.9646481275558472
+    },
+    {
+      "id": 82,
+      "text": "diameter",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 83,
+      "text": "CO 2",
+      "type": "G#Species",
+      "confidence": 0.9999985694885254
+    },
+    {
+      "id": 84,
+      "text": "plasma treatment,",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 85,
+      "text": "PBS,",
+      "type": "G#Species",
+      "confidence": 0.9526468515396118
+    },
+    {
+      "id": 86,
+      "text": "PBS",
+      "type": "G#PlasmaTarget",
+      "confidence": 0.897295355796814
+    },
+    {
+      "id": 87,
+      "text": "high voltage pulse",
+      "type": "G#PhysicalQuantity",
+      "confidence": 0.9999809265136719
+    },
+    {
+      "id": 88,
+      "text": "voltage pulse",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 89,
+      "text": "mm",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 90,
+      "text": "nanosecond",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 91,
+      "text": "nanosecond pulser",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 92,
+      "text": "(FPB-20-05NM, FID GmbH, Burbach, Germany)",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 93,
+      "text": "frequency",
+      "type": "G#PhysicalQuantity",
+      "confidence": 0.9999998807907104
+    },
+    {
+      "id": 94,
+      "text": "external function generator",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 95,
+      "text": "(TTi, TG5011 LXT, Philadelphia, PA, USA)",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 96,
+      "text": "s",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 97,
+      "text": "time",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 98,
+      "text": "pulse frequency",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 99,
+      "text": "energy",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 100,
+      "text": "times",
+      "type": "G#PhysicalQuantity",
+      "confidence": 0.8649391531944275
+    },
+    {
+      "id": 101,
+      "text": "DBD comparative study,",
+      "type": "G#Experiment",
+      "confidence": 0.6487619876861572
+    },
+    {
+      "id": 102,
+      "text": "microsecond pulse",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 103,
+      "text": "total plasma energy",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 104,
+      "text": "viability",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 105,
+      "text": "nanosecond-and",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 106,
+      "text": "microsecond-pulsed",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 107,
+      "text": "microsecond-pulsed DBD system",
+      "type": "G#Experiment",
+      "confidence": 1.0
+    },
+    {
+      "id": 108,
+      "text": "feed gas",
+      "type": "G#PlasmaMedium",
+      "confidence": 1.0
+    },
+    {
+      "id": 109,
+      "text": "DBD-like jet,",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 110,
+      "text": "MHz",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 111,
+      "text": "CT26",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 112,
+      "text": "ml",
+      "type": "G#Unit",
+      "confidence": 0.9999984502792358
+    },
+    {
+      "id": 113,
+      "text": "(Sigma)",
+      "type": "G#Species",
+      "confidence": 0.9938634634017944
+    },
+    {
+      "id": 114,
+      "text": "(CNC, Germany)",
+      "type": "G#DiagnosticDevice",
+      "confidence": 1.0
+    },
+    {
+      "id": 115,
+      "text": "distance",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 116,
+      "text": "evaporation",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 117,
+      "text": "water",
+      "type": "G#PlasmaMedium",
+      "confidence": 0.43083155155181885
+    },
+    {
+      "id": 118,
+      "text": "metabolic activity",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 119,
+      "text": "h",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 120,
+      "text": "phenol",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 121,
+      "text": "lM",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 122,
+      "text": "resazurin",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 0.9163541197776794
+    },
+    {
+      "id": 123,
+      "text": "linear regressions",
+      "type": "G#Modelling",
+      "confidence": 0.999879002571106
+    },
+    {
+      "id": 124,
+      "text": "O 2 Deposition",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 125,
+      "text": "s,",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 126,
+      "text": "mJ",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 127,
+      "text": "kINPen",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 128,
+      "text": "cellular toxicity",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 129,
+      "text": "IC50 treatment",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 130,
+      "text": "lM (Fig",
+      "type": "G#Unit",
+      "confidence": 0.9960530996322632
+    },
+    {
+      "id": 131,
+      "text": "nanosecond-pulsed",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 132,
+      "text": "energy input",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 133,
+      "text": "H 2 O 2 concentrations",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 134,
+      "text": "microsecond",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 135,
+      "text": "nanosecond pulsing",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 136,
+      "text": "energy dosages",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 137,
+      "text": "mJ (Fig",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 138,
+      "text": "H 2 O 2 (Fig",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 139,
+      "text": "O 2 (Fig",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 140,
+      "text": "IC50",
+      "type": "G#PlasmaSource",
+      "confidence": 0.9999991655349731
+    },
+    {
+      "id": 141,
+      "text": "lM)",
+      "type": "G#PlasmaSource",
+      "confidence": 0.9248118996620178
+    },
+    {
+      "id": 142,
+      "text": "microsecond plasma mode",
+      "type": "G#DischargeRegime",
+      "confidence": 0.9995396137237549
+    },
+    {
+      "id": 143,
+      "text": "pulsing frequency",
+      "type": "G#PowerSupply",
+      "confidence": 1.0
+    },
+    {
+      "id": 144,
+      "text": "frequency",
+      "type": "G#PowerSupply",
+      "confidence": 0.8425739407539368
+    },
+    {
+      "id": 145,
+      "text": "toxicity",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 146,
+      "text": "metabolic attenuation",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 147,
+      "text": "cell densities,",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 148,
+      "text": "cell densities",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 149,
+      "text": "metabolic inhibition",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 150,
+      "text": "(Fig",
+      "type": "G#PhysicalEffect",
+      "confidence": 0.9095247983932495
+    },
+    {
+      "id": 151,
+      "text": "ll",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 152,
+      "text": "jet plasma",
+      "type": "G#PlasmaSource",
+      "confidence": 0.994199275970459
+    },
+    {
+      "id": 153,
+      "text": "peroxide concentrations",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 154,
+      "text": "volume",
+      "type": "G#PhysicalQuantity",
+      "confidence": 0.9997527003288269
+    },
+    {
+      "id": 155,
+      "text": "cellular effects",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 156,
+      "text": "DBD plasma toxicity,",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 157,
+      "text": "charged and short-lived chemically active species",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 158,
+      "text": "argon gas",
+      "type": "G#PlasmaMedium",
+      "confidence": 1.0
+    },
+    {
+      "id": 159,
+      "text": "H 2 O 2 -scavenging",
+      "type": "G#Species",
+      "confidence": 0.9999970197677612
+    },
+    {
+      "id": 160,
+      "text": "cell viability",
+      "type": "G#PhysicalEffect",
+      "confidence": 0.9989039897918701
+    },
+    {
+      "id": 161,
+      "text": "argon",
+      "type": "G#Species",
+      "confidence": 0.9999890327453613
+    },
+    {
+      "id": 162,
+      "text": "catalase",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 163,
+      "text": "DBDs",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 164,
+      "text": "external feed gas",
+      "type": "G#PlasmaMedium",
+      "confidence": 1.0
+    },
+    {
+      "id": 165,
+      "text": "feed gas-even",
+      "type": "G#PlasmaMedium",
+      "confidence": 1.0
+    },
+    {
+      "id": 166,
+      "text": "plasma-off mode-immediately",
+      "type": "G#DischargeRegime",
+      "confidence": 0.7182003855705261
+    },
+    {
+      "id": 167,
+      "text": "PBS",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 168,
+      "text": "gas fluxes",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 169,
+      "text": "liquid",
+      "type": "G#PlasmaTarget",
+      "confidence": 1.0
+    },
+    {
+      "id": 170,
+      "text": "dehydration",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 171,
+      "text": "oxidants",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 0.9999887943267822
+    },
+    {
+      "id": 172,
+      "text": "streamers",
+      "type": "G#DischargeRegime",
+      "confidence": 1.0
+    },
+    {
+      "id": 173,
+      "text": "jet plasmas,",
+      "type": "G#PlasmaSource",
+      "confidence": 0.9864229559898376
+    },
+    {
+      "id": 174,
+      "text": "abrogation of DBD plasma effects",
+      "type": "G#PhysicalEffect",
+      "confidence": 0.9999879598617554
+    },
+    {
+      "id": 175,
+      "text": "biological plasma effects",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 176,
+      "text": "plasma-treated liquids",
+      "type": "G#PlasmaMedium",
+      "confidence": 0.9999779462814331
+    },
+    {
+      "id": 177,
+      "text": "kINPen plasma jet,",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 178,
+      "text": "nitrite,",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 179,
+      "text": "nitrate,",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 180,
+      "text": "hydrogen",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 0.5015716552734375
+    },
+    {
+      "id": 181,
+      "text": "hydrogen peroxide,",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 182,
+      "text": "superoxide,",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 183,
+      "text": "hydroxyl radical,",
+      "type": "G#Species",
+      "confidence": 0.9992390871047974
+    },
+    {
+      "id": 184,
+      "text": "peroxynitrite,",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 185,
+      "text": "oxygen",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 186,
+      "text": "deposition,",
+      "type": "G#PlasmaApplication",
+      "confidence": 0.9996767044067383
+    },
+    {
+      "id": 187,
+      "text": "hypochlorous acid",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 188,
+      "text": "peroxide",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 189,
+      "text": "IC50",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 190,
+      "text": "IC50 H 2 O 2",
+      "type": "G#PlasmaMedium",
+      "confidence": 1.0
+    },
+    {
+      "id": 191,
+      "text": "cell number",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 192,
+      "text": "DBD cytotoxicity",
+      "type": "G#Species",
+      "confidence": 0.9844732284545898
+    },
+    {
+      "id": 193,
+      "text": "cytotoxic effectors",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 194,
+      "text": "charged particles",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 195,
+      "text": "target cells",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 196,
+      "text": "wavelength",
+      "type": "G#PhysicalQuantity",
+      "confidence": 1.0
+    },
+    {
+      "id": 197,
+      "text": "UV radiation",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 198,
+      "text": "radiation",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 199,
+      "text": "nanometers",
+      "type": "G#Unit",
+      "confidence": 1.0
+    },
+    {
+      "id": 200,
+      "text": "plasma properties",
+      "type": "G#PlasmaProperties",
+      "confidence": 1.0
+    },
+    {
+      "id": 201,
+      "text": "cytotoxic effects",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 202,
+      "text": "jet and DBD plasma sources",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 203,
+      "text": "DBD plasma sources",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 204,
+      "text": "helium/oxygen",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 205,
+      "text": "helium/oxygen plasma jet,",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    },
+    {
+      "id": 206,
+      "text": "short-lived species",
+      "type": "G#Species",
+      "confidence": 0.9999969005584717
+    },
+    {
+      "id": 207,
+      "text": "generation of hypochlorous acid in aqueous media",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 208,
+      "text": "hypochlorous acid",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 209,
+      "text": "catalysts",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 210,
+      "text": "oxidants,",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 211,
+      "text": "enzymatic profile",
+      "type": "G#PhysicalQuantity",
+      "confidence": 0.7913167476654053
+    },
+    {
+      "id": 212,
+      "text": "iron",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 213,
+      "text": "hydroxyl radicals,",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 214,
+      "text": "radicals,",
+      "type": "G#Species",
+      "confidence": 0.9999998807907104
+    },
+    {
+      "id": 215,
+      "text": "synergistic effects",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 216,
+      "text": "nitrite",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 217,
+      "text": "membrane-based oxidases",
+      "type": "G#ElectrodeMaterial",
+      "confidence": 1.0
+    },
+    {
+      "id": 218,
+      "text": "oxidases",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 219,
+      "text": "peroxynitrite",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 220,
+      "text": "toxic species",
+      "type": "G#Species",
+      "confidence": 1.0
+    },
+    {
+      "id": 221,
+      "text": "trap formation",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 222,
+      "text": "kINPen plasma treatment",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 223,
+      "text": "redox enzymes",
+      "type": "G#PhysicalEffect",
+      "confidence": 0.9999988079071045
+    },
+    {
+      "id": 224,
+      "text": "antioxidant defenses",
+      "type": "G#PhysicalEffect",
+      "confidence": 0.9998992681503296
+    },
+    {
+      "id": 225,
+      "text": "in vitro cell cultures",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 226,
+      "text": "cold plasmas",
+      "type": "G#PlasmaProperties",
+      "confidence": 1.0
+    },
+    {
+      "id": 227,
+      "text": "plasma source",
+      "type": "G#PlasmaProperties",
+      "confidence": 0.820939838886261
+    },
+    {
+      "id": 228,
+      "text": "species deposition",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 229,
+      "text": "cell membrane oxidation",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 230,
+      "text": "oxidation",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 231,
+      "text": "plasma-treated agarose membranes",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 232,
+      "text": "medical applications",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 233,
+      "text": "metabolic/growth inhibition",
+      "type": "G#PhysicalEffect",
+      "confidence": 1.0
+    },
+    {
+      "id": 234,
+      "text": "testing other plasma sources",
+      "type": "G#PlasmaApplication",
+      "confidence": 1.0
+    },
+    {
+      "id": 235,
+      "text": "biological response model",
+      "type": "G#Modelling",
+      "confidence": 1.0
+    },
+    {
+      "id": 236,
+      "text": "plasma discharges.",
+      "type": "G#PlasmaSource",
+      "confidence": 1.0
+    }
+  ],
+  "entity_count_by_type": {
+    "G#PlasmaSource": 25,
+    "G#PlasmaProperties": 5,
+    "G#PlasmaMedium": 10,
+    "G#Species": 44,
+    "G#PlasmaApplication": 24,
+    "G#PhysicalQuantity": 27,
+    "G#Unit": 19,
+    "G#PowerSupply": 12,
+    "G#ElectrodeMaterial": 21,
+    "G#PhysicalEffect": 35,
+    "G#Modelling": 3,
+    "G#Experiment": 3,
+    "G#DiagnosticDevice": 4,
+    "G#PlasmaTarget": 2,
+    "G#DischargeRegime": 3
+  },
+  "entity_index": {
+    "G#PlasmaSource": [
+      {
+        "id": 0,
+        "text": "plasma sources"
+      },
+      {
+        "id": 1,
+        "text": "dielectric barrier discharge,"
+      },
+      {
+        "id": 4,
+        "text": "argon plasma jet,"
+      },
+      {
+        "id": 5,
+        "text": "plasma jet,"
+      },
+      {
+        "id": 33,
+        "text": "argon plasma jet"
+      },
+      {
+        "id": 34,
+        "text": "plasma jet"
+      },
+      {
+        "id": 35,
+        "text": "Dielectric"
+      },
+      {
+        "id": 36,
+        "text": "barrier discharge"
+      },
+      {
+        "id": 48,
+        "text": "plasma sources,"
+      },
+      {
+        "id": 49,
+        "text": "floating-electrode dielectric barriers discharge"
+      },
+      {
+        "id": 50,
+        "text": "dielectric barriers discharge"
+      },
+      {
+        "id": 52,
+        "text": "plasma active components"
+      },
+      {
+        "id": 81,
+        "text": "DBD"
+      },
+      {
+        "id": 109,
+        "text": "DBD-like jet,"
+      },
+      {
+        "id": 127,
+        "text": "kINPen"
+      },
+      {
+        "id": 140,
+        "text": "IC50"
+      },
+      {
+        "id": 141,
+        "text": "lM)"
+      },
+      {
+        "id": 152,
+        "text": "jet plasma"
+      },
+      {
+        "id": 163,
+        "text": "DBDs"
+      },
+      {
+        "id": 173,
+        "text": "jet plasmas,"
+      },
+      {
+        "id": 177,
+        "text": "kINPen plasma jet,"
+      },
+      {
+        "id": 202,
+        "text": "jet and DBD plasma sources"
+      },
+      {
+        "id": 203,
+        "text": "DBD plasma sources"
+      },
+      {
+        "id": 205,
+        "text": "helium/oxygen plasma jet,"
+      },
+      {
+        "id": 236,
+        "text": "plasma discharges."
+      }
+    ],
+    "G#PlasmaProperties": [
+      {
+        "id": 2,
+        "text": "atmospheric pressure"
+      },
+      {
+        "id": 31,
+        "text": "Atmospheric pressure"
+      },
+      {
+        "id": 200,
+        "text": "plasma properties"
+      },
+      {
+        "id": 226,
+        "text": "cold plasmas"
+      },
+      {
+        "id": 227,
+        "text": "plasma source"
+      }
+    ],
+    "G#PlasmaMedium": [
+      {
+        "id": 3,
+        "text": "argon"
+      },
+      {
+        "id": 39,
+        "text": "gases"
+      },
+      {
+        "id": 79,
+        "text": "humidified atmosphere"
+      },
+      {
+        "id": 108,
+        "text": "feed gas"
+      },
+      {
+        "id": 117,
+        "text": "water"
+      },
+      {
+        "id": 158,
+        "text": "argon gas"
+      },
+      {
+        "id": 164,
+        "text": "external feed gas"
+      },
+      {
+        "id": 165,
+        "text": "feed gas-even"
+      },
+      {
+        "id": 176,
+        "text": "plasma-treated liquids"
+      },
+      {
+        "id": 190,
+        "text": "IC50 H 2 O 2"
+      }
+    ],
+    "G#Species": [
+      {
+        "id": 6,
+        "text": "cancer cell"
+      },
+      {
+        "id": 8,
+        "text": "hydrogen peroxide (H 2 O 2)"
+      },
+      {
+        "id": 9,
+        "text": "(H 2"
+      },
+      {
+        "id": 10,
+        "text": "O 2)"
+      },
+      {
+        "id": 13,
+        "text": "H 2"
+      },
+      {
+        "id": 14,
+        "text": "H 2 O 2"
+      },
+      {
+        "id": 16,
+        "text": "O 2"
+      },
+      {
+        "id": 18,
+        "text": "DBD,"
+      },
+      {
+        "id": 19,
+        "text": "DBD, IC50"
+      },
+      {
+        "id": 46,
+        "text": "UV-radiation"
+      },
+      {
+        "id": 57,
+        "text": "reactive species"
+      },
+      {
+        "id": 58,
+        "text": "skin cells"
+      },
+      {
+        "id": 59,
+        "text": "immune cells"
+      },
+      {
+        "id": 60,
+        "text": "cancer cells"
+      },
+      {
+        "id": 62,
+        "text": "(H 2 O 2"
+      },
+      {
+        "id": 65,
+        "text": "oxygenases"
+      },
+      {
+        "id": 71,
+        "text": "DBD"
+      },
+      {
+        "id": 75,
+        "text": "(FCS), 2%"
+      },
+      {
+        "id": 83,
+        "text": "CO 2"
+      },
+      {
+        "id": 85,
+        "text": "PBS,"
+      },
+      {
+        "id": 113,
+        "text": "(Sigma)"
+      },
+      {
+        "id": 120,
+        "text": "phenol"
+      },
+      {
+        "id": 124,
+        "text": "O 2 Deposition"
+      },
+      {
+        "id": 138,
+        "text": "H 2 O 2 (Fig"
+      },
+      {
+        "id": 139,
+        "text": "O 2 (Fig"
+      },
+      {
+        "id": 157,
+        "text": "charged and short-lived chemically active species"
+      },
+      {
+        "id": 159,
+        "text": "H 2 O 2 -scavenging"
+      },
+      {
+        "id": 161,
+        "text": "argon"
+      },
+      {
+        "id": 162,
+        "text": "catalase"
+      },
+      {
+        "id": 183,
+        "text": "hydroxyl radical,"
+      },
+      {
+        "id": 185,
+        "text": "oxygen"
+      },
+      {
+        "id": 189,
+        "text": "IC50"
+      },
+      {
+        "id": 192,
+        "text": "DBD cytotoxicity"
+      },
+      {
+        "id": 194,
+        "text": "charged particles"
+      },
+      {
+        "id": 195,
+        "text": "target cells"
+      },
+      {
+        "id": 204,
+        "text": "helium/oxygen"
+      },
+      {
+        "id": 206,
+        "text": "short-lived species"
+      },
+      {
+        "id": 208,
+        "text": "hypochlorous acid"
+      },
+      {
+        "id": 213,
+        "text": "hydroxyl radicals,"
+      },
+      {
+        "id": 214,
+        "text": "radicals,"
+      },
+      {
+        "id": 216,
+        "text": "nitrite"
+      },
+      {
+        "id": 218,
+        "text": "oxidases"
+      },
+      {
+        "id": 219,
+        "text": "peroxynitrite"
+      },
+      {
+        "id": 220,
+        "text": "toxic species"
+      }
+    ],
+    "G#PlasmaApplication": [
+      {
+        "id": 7,
+        "text": "cytotoxicity assays,"
+      },
+      {
+        "id": 15,
+        "text": "H 2 O 2 deposition"
+      },
+      {
+        "id": 17,
+        "text": "deposition"
+      },
+      {
+        "id": 26,
+        "text": "peroxide generation"
+      },
+      {
+        "id": 27,
+        "text": "plasma treatment"
+      },
+      {
+        "id": 37,
+        "text": "Plasma medicine"
+      },
+      {
+        "id": 38,
+        "text": "plasma medicine,"
+      },
+      {
+        "id": 41,
+        "text": "wound healing"
+      },
+      {
+        "id": 42,
+        "text": "cancer"
+      },
+      {
+        "id": 43,
+        "text": "plasma applications"
+      },
+      {
+        "id": 45,
+        "text": "direct plasma applications,"
+      },
+      {
+        "id": 51,
+        "text": "cell growth reduction"
+      },
+      {
+        "id": 53,
+        "text": "plasma medical research"
+      },
+      {
+        "id": 68,
+        "text": "redox signaling events"
+      },
+      {
+        "id": 78,
+        "text": "culturing"
+      },
+      {
+        "id": 84,
+        "text": "plasma treatment,"
+      },
+      {
+        "id": 129,
+        "text": "IC50 treatment"
+      },
+      {
+        "id": 186,
+        "text": "deposition,"
+      },
+      {
+        "id": 207,
+        "text": "generation of hypochlorous acid in aqueous media"
+      },
+      {
+        "id": 222,
+        "text": "kINPen plasma treatment"
+      },
+      {
+        "id": 225,
+        "text": "in vitro cell cultures"
+      },
+      {
+        "id": 231,
+        "text": "plasma-treated agarose membranes"
+      },
+      {
+        "id": 232,
+        "text": "medical applications"
+      },
+      {
+        "id": 234,
+        "text": "testing other plasma sources"
+      }
+    ],
+    "G#PhysicalQuantity": [
+      {
+        "id": 11,
+        "text": "inhibitory concentration"
+      },
+      {
+        "id": 20,
+        "text": "total energy input"
+      },
+      {
+        "id": 23,
+        "text": "time,"
+      },
+      {
+        "id": 32,
+        "text": "pressure"
+      },
+      {
+        "id": 47,
+        "text": "electrical fields"
+      },
+      {
+        "id": 69,
+        "text": "redox signaling events enabling the"
+      },
+      {
+        "id": 82,
+        "text": "diameter"
+      },
+      {
+        "id": 87,
+        "text": "high voltage pulse"
+      },
+      {
+        "id": 93,
+        "text": "frequency"
+      },
+      {
+        "id": 97,
+        "text": "time"
+      },
+      {
+        "id": 99,
+        "text": "energy"
+      },
+      {
+        "id": 100,
+        "text": "times"
+      },
+      {
+        "id": 103,
+        "text": "total plasma energy"
+      },
+      {
+        "id": 104,
+        "text": "viability"
+      },
+      {
+        "id": 115,
+        "text": "distance"
+      },
+      {
+        "id": 118,
+        "text": "metabolic activity"
+      },
+      {
+        "id": 132,
+        "text": "energy input"
+      },
+      {
+        "id": 133,
+        "text": "H 2 O 2 concentrations"
+      },
+      {
+        "id": 136,
+        "text": "energy dosages"
+      },
+      {
+        "id": 147,
+        "text": "cell densities,"
+      },
+      {
+        "id": 148,
+        "text": "cell densities"
+      },
+      {
+        "id": 153,
+        "text": "peroxide concentrations"
+      },
+      {
+        "id": 154,
+        "text": "volume"
+      },
+      {
+        "id": 168,
+        "text": "gas fluxes"
+      },
+      {
+        "id": 191,
+        "text": "cell number"
+      },
+      {
+        "id": 196,
+        "text": "wavelength"
+      },
+      {
+        "id": 211,
+        "text": "enzymatic profile"
+      }
+    ],
+    "G#Unit": [
+      {
+        "id": 12,
+        "text": "(IC50)"
+      },
+      {
+        "id": 89,
+        "text": "mm"
+      },
+      {
+        "id": 90,
+        "text": "nanosecond"
+      },
+      {
+        "id": 96,
+        "text": "s"
+      },
+      {
+        "id": 105,
+        "text": "nanosecond-and"
+      },
+      {
+        "id": 106,
+        "text": "microsecond-pulsed"
+      },
+      {
+        "id": 110,
+        "text": "MHz"
+      },
+      {
+        "id": 111,
+        "text": "CT26"
+      },
+      {
+        "id": 112,
+        "text": "ml"
+      },
+      {
+        "id": 119,
+        "text": "h"
+      },
+      {
+        "id": 121,
+        "text": "lM"
+      },
+      {
+        "id": 125,
+        "text": "s,"
+      },
+      {
+        "id": 126,
+        "text": "mJ"
+      },
+      {
+        "id": 130,
+        "text": "lM (Fig"
+      },
+      {
+        "id": 131,
+        "text": "nanosecond-pulsed"
+      },
+      {
+        "id": 134,
+        "text": "microsecond"
+      },
+      {
+        "id": 137,
+        "text": "mJ (Fig"
+      },
+      {
+        "id": 151,
+        "text": "ll"
+      },
+      {
+        "id": 199,
+        "text": "nanometers"
+      }
+    ],
+    "G#PowerSupply": [
+      {
+        "id": 21,
+        "text": "pulsing frequency,"
+      },
+      {
+        "id": 22,
+        "text": "frequency,"
+      },
+      {
+        "id": 88,
+        "text": "voltage pulse"
+      },
+      {
+        "id": 91,
+        "text": "nanosecond pulser"
+      },
+      {
+        "id": 92,
+        "text": "(FPB-20-05NM, FID GmbH, Burbach, Germany)"
+      },
+      {
+        "id": 94,
+        "text": "external function generator"
+      },
+      {
+        "id": 95,
+        "text": "(TTi, TG5011 LXT, Philadelphia, PA, USA)"
+      },
+      {
+        "id": 98,
+        "text": "pulse frequency"
+      },
+      {
+        "id": 102,
+        "text": "microsecond pulse"
+      },
+      {
+        "id": 135,
+        "text": "nanosecond pulsing"
+      },
+      {
+        "id": 143,
+        "text": "pulsing frequency"
+      },
+      {
+        "id": 144,
+        "text": "frequency"
+      }
+    ],
+    "G#ElectrodeMaterial": [
+      {
+        "id": 24,
+        "text": "liquid"
+      },
+      {
+        "id": 61,
+        "text": "hydrogen peroxide"
+      },
+      {
+        "id": 63,
+        "text": "for example, Fenton reaction"
+      },
+      {
+        "id": 76,
+        "text": "glutamine,"
+      },
+      {
+        "id": 77,
+        "text": "penicillin/streptomycin"
+      },
+      {
+        "id": 80,
+        "text": "carbon dioxide"
+      },
+      {
+        "id": 122,
+        "text": "resazurin"
+      },
+      {
+        "id": 167,
+        "text": "PBS"
+      },
+      {
+        "id": 171,
+        "text": "oxidants"
+      },
+      {
+        "id": 178,
+        "text": "nitrite,"
+      },
+      {
+        "id": 179,
+        "text": "nitrate,"
+      },
+      {
+        "id": 180,
+        "text": "hydrogen"
+      },
+      {
+        "id": 181,
+        "text": "hydrogen peroxide,"
+      },
+      {
+        "id": 182,
+        "text": "superoxide,"
+      },
+      {
+        "id": 184,
+        "text": "peroxynitrite,"
+      },
+      {
+        "id": 187,
+        "text": "hypochlorous acid"
+      },
+      {
+        "id": 188,
+        "text": "peroxide"
+      },
+      {
+        "id": 209,
+        "text": "catalysts"
+      },
+      {
+        "id": 210,
+        "text": "oxidants,"
+      },
+      {
+        "id": 212,
+        "text": "iron"
+      },
+      {
+        "id": 217,
+        "text": "membrane-based oxidases"
+      }
+    ],
+    "G#PhysicalEffect": [
+      {
+        "id": 25,
+        "text": "plasma toxicity"
+      },
+      {
+        "id": 28,
+        "text": "physical effects"
+      },
+      {
+        "id": 29,
+        "text": "predefined cellular response"
+      },
+      {
+        "id": 30,
+        "text": "cellular response"
+      },
+      {
+        "id": 40,
+        "text": "physico-chemical effectors"
+      },
+      {
+        "id": 55,
+        "text": "plasma effects"
+      },
+      {
+        "id": 64,
+        "text": "Fenton reaction"
+      },
+      {
+        "id": 67,
+        "text": "redox signaling"
+      },
+      {
+        "id": 70,
+        "text": "necroptotic cell death pathway"
+      },
+      {
+        "id": 72,
+        "text": "inhibition of CT26 metabolic activity"
+      },
+      {
+        "id": 73,
+        "text": "plasma-induced cell toxicity"
+      },
+      {
+        "id": 116,
+        "text": "evaporation"
+      },
+      {
+        "id": 128,
+        "text": "cellular toxicity"
+      },
+      {
+        "id": 145,
+        "text": "toxicity"
+      },
+      {
+        "id": 146,
+        "text": "metabolic attenuation"
+      },
+      {
+        "id": 149,
+        "text": "metabolic inhibition"
+      },
+      {
+        "id": 150,
+        "text": "(Fig"
+      },
+      {
+        "id": 155,
+        "text": "cellular effects"
+      },
+      {
+        "id": 156,
+        "text": "DBD plasma toxicity,"
+      },
+      {
+        "id": 160,
+        "text": "cell viability"
+      },
+      {
+        "id": 170,
+        "text": "dehydration"
+      },
+      {
+        "id": 174,
+        "text": "abrogation of DBD plasma effects"
+      },
+      {
+        "id": 175,
+        "text": "biological plasma effects"
+      },
+      {
+        "id": 193,
+        "text": "cytotoxic effectors"
+      },
+      {
+        "id": 197,
+        "text": "UV radiation"
+      },
+      {
+        "id": 198,
+        "text": "radiation"
+      },
+      {
+        "id": 201,
+        "text": "cytotoxic effects"
+      },
+      {
+        "id": 215,
+        "text": "synergistic effects"
+      },
+      {
+        "id": 221,
+        "text": "trap formation"
+      },
+      {
+        "id": 223,
+        "text": "redox enzymes"
+      },
+      {
+        "id": 224,
+        "text": "antioxidant defenses"
+      },
+      {
+        "id": 228,
+        "text": "species deposition"
+      },
+      {
+        "id": 229,
+        "text": "cell membrane oxidation"
+      },
+      {
+        "id": 230,
+        "text": "oxidation"
+      },
+      {
+        "id": 233,
+        "text": "metabolic/growth inhibition"
+      }
+    ],
+    "G#Modelling": [
+      {
+        "id": 44,
+        "text": "in vivo models"
+      },
+      {
+        "id": 123,
+        "text": "linear regressions"
+      },
+      {
+        "id": 235,
+        "text": "biological response model"
+      }
+    ],
+    "G#Experiment": [
+      {
+        "id": 54,
+        "text": "physical characterization"
+      },
+      {
+        "id": 101,
+        "text": "DBD comparative study,"
+      },
+      {
+        "id": 107,
+        "text": "microsecond-pulsed DBD system"
+      }
+    ],
+    "G#DiagnosticDevice": [
+      {
+        "id": 56,
+        "text": "clinical device calibration,"
+      },
+      {
+        "id": 66,
+        "text": "and in redox signaling events enabling the translation of redox events into distinct biological responses"
+      },
+      {
+        "id": 74,
+        "text": "cell culture medium"
+      },
+      {
+        "id": 114,
+        "text": "(CNC, Germany)"
+      }
+    ],
+    "G#PlasmaTarget": [
+      {
+        "id": 86,
+        "text": "PBS"
+      },
+      {
+        "id": 169,
+        "text": "liquid"
+      }
+    ],
+    "G#DischargeRegime": [
+      {
+        "id": 142,
+        "text": "microsecond plasma mode"
+      },
+      {
+        "id": 166,
+        "text": "plasma-off mode-immediately"
+      },
+      {
+        "id": 172,
+        "text": "streamers"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "text": "Abstract A comparative study of two plasma sources (floating-electrode dielectric barrier discharge, DBD, Drexel University; atmospheric pressure argon plasma jet, kINPen, INP Greifswald) on cancer cell toxicity was performed .",
+      "entities": [
+        {
+          "entity_id": 0,
+          "start": 6,
+          "end": 8,
+          "text": "plasma sources",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 1,
+          "start": 9,
+          "end": 12,
+          "text": "dielectric barrier discharge,",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 2,
+          "start": 15,
+          "end": 17,
+          "text": "atmospheric pressure",
+          "type": "G#PlasmaProperties"
+        },
+        {
+          "entity_id": 3,
+          "start": 17,
+          "end": 18,
+          "text": "argon",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 4,
+          "start": 17,
+          "end": 20,
+          "text": "argon plasma jet,",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 5,
+          "start": 18,
+          "end": 20,
+          "text": "plasma jet,",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 6,
+          "start": 24,
+          "end": 26,
+          "text": "cancer cell",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "Cell culture protocols, cytotoxicity assays, and procedures for assessment of hydrogen peroxide (H 2 O 2) were standardized between both labs .",
+      "entities": [
+        {
+          "entity_id": 7,
+          "start": 3,
+          "end": 5,
+          "text": "cytotoxicity assays,",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 8,
+          "start": 10,
+          "end": 16,
+          "text": "hydrogen peroxide (H 2 O 2)",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 9,
+          "start": 12,
+          "end": 14,
+          "text": "(H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 10,
+          "start": 14,
+          "end": 16,
+          "text": "O 2)",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "The inhibitory concentration 50 (IC50) and its corresponding H 2 O 2 deposition was determined for both devices .",
+      "entities": [
+        {
+          "entity_id": 11,
+          "start": 1,
+          "end": 3,
+          "text": "inhibitory concentration",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 12,
+          "start": 4,
+          "end": 5,
+          "text": "(IC50)",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 13,
+          "start": 8,
+          "end": 10,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 14,
+          "start": 8,
+          "end": 12,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 15,
+          "start": 8,
+          "end": 13,
+          "text": "H 2 O 2 deposition",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 16,
+          "start": 10,
+          "end": 12,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 17,
+          "start": 12,
+          "end": 13,
+          "text": "deposition",
+          "type": "G#PlasmaApplication"
+        }
+      ]
+    },
+    {
+      "text": "For the DBD, IC50 and H 2 O 2 generation were largely dependent on the total energy input but not pulsing frequency, treatment time, or total number of cells .",
+      "entities": [
+        {
+          "entity_id": 18,
+          "start": 2,
+          "end": 3,
+          "text": "DBD,",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 19,
+          "start": 2,
+          "end": 4,
+          "text": "DBD, IC50",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 13,
+          "start": 5,
+          "end": 7,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 14,
+          "start": 5,
+          "end": 9,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 7,
+          "end": 9,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 20,
+          "start": 15,
+          "end": 18,
+          "text": "total energy input",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 21,
+          "start": 20,
+          "end": 22,
+          "text": "pulsing frequency,",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 22,
+          "start": 21,
+          "end": 22,
+          "text": "frequency,",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 23,
+          "start": 23,
+          "end": 24,
+          "text": "time,",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "DBD cytotoxicity could not be replicated by addition of H 2 O 2 alone and was inhibited by larger amounts of liquid present during the treatment .",
+      "entities": [
+        {
+          "entity_id": 14,
+          "start": 9,
+          "end": 13,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 24,
+          "start": 21,
+          "end": 22,
+          "text": "liquid",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "Jet plasma toxicity depended on peroxide generation as well as total cell number and amount of liquid .",
+      "entities": [
+        {
+          "entity_id": 25,
+          "start": 1,
+          "end": 3,
+          "text": "plasma toxicity",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 26,
+          "start": 5,
+          "end": 7,
+          "text": "peroxide generation",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 24,
+          "start": 16,
+          "end": 17,
+          "text": "liquid",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "Thus, the amount of liquid present during plasma treatment in vitro is key in attenuating short-lived species or other physical effects from plasmas .",
+      "entities": [
+        {
+          "entity_id": 24,
+          "start": 4,
+          "end": 5,
+          "text": "liquid",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 27,
+          "start": 7,
+          "end": 9,
+          "text": "plasma treatment",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 28,
+          "start": 19,
+          "end": 21,
+          "text": "physical effects",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "These in vitro results suggest a role of liquids in or on tissues during plasma treatment in a clinical setting .",
+      "entities": [
+        {
+          "entity_id": 27,
+          "start": 14,
+          "end": 16,
+          "text": "plasma treatment",
+          "type": "G#PlasmaApplication"
+        }
+      ]
+    },
+    {
+      "text": "Additionally, we provide a platform for correlation between different plasma sources for a predefined cellular response .",
+      "entities": [
+        {
+          "entity_id": 0,
+          "start": 9,
+          "end": 11,
+          "text": "plasma sources",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 29,
+          "start": 13,
+          "end": 16,
+          "text": "predefined cellular response",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 30,
+          "start": 14,
+          "end": 16,
+          "text": "cellular response",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "Keywords Atmospheric pressure argon plasma jet Á Dielectric barrier discharge Á Hydrogen peroxide Á kINPen Á Plasma medicine & Sander Bekeschus Introduction In the study of plasma medicine, partially ionized gases and their physico-chemical effectors are investigated for beneficial biological responses [1][2][3] .",
+      "entities": [
+        {
+          "entity_id": 31,
+          "start": 1,
+          "end": 3,
+          "text": "Atmospheric pressure",
+          "type": "G#PlasmaProperties"
+        },
+        {
+          "entity_id": 32,
+          "start": 2,
+          "end": 3,
+          "text": "pressure",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 3,
+          "start": 3,
+          "end": 4,
+          "text": "argon",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 33,
+          "start": 3,
+          "end": 6,
+          "text": "argon plasma jet",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 34,
+          "start": 4,
+          "end": 6,
+          "text": "plasma jet",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 35,
+          "start": 7,
+          "end": 8,
+          "text": "Dielectric",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 36,
+          "start": 8,
+          "end": 10,
+          "text": "barrier discharge",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 37,
+          "start": 16,
+          "end": 18,
+          "text": "Plasma medicine",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 38,
+          "start": 26,
+          "end": 28,
+          "text": "plasma medicine,",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 39,
+          "start": 30,
+          "end": 31,
+          "text": "gases",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 40,
+          "start": 33,
+          "end": 35,
+          "text": "physico-chemical effectors",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "The observed beneficial effects in wound healing [4][5][6] and cancer [7][8][9] have significantly spurred research efforts and novel findings in recent years .",
+      "entities": [
+        {
+          "entity_id": 41,
+          "start": 5,
+          "end": 7,
+          "text": "wound healing",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 42,
+          "start": 9,
+          "end": 10,
+          "text": "cancer",
+          "type": "G#PlasmaApplication"
+        }
+      ]
+    },
+    {
+      "text": "Promising in vitro research investigations are an ethical and scientific necessity for translation of plasma applications to in vivo models and eventually to humans .",
+      "entities": [
+        {
+          "entity_id": 43,
+          "start": 14,
+          "end": 16,
+          "text": "plasma applications",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 44,
+          "start": 17,
+          "end": 20,
+          "text": "in vivo models",
+          "type": "G#Modelling"
+        }
+      ]
+    },
+    {
+      "text": "However, there are technical and methodological challenges for direct plasma applications, especially with regard to different types of plasma sources and comparison of results .",
+      "entities": [
+        {
+          "entity_id": 45,
+          "start": 8,
+          "end": 11,
+          "text": "direct plasma applications,",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 0,
+          "start": 18,
+          "end": 20,
+          "text": "plasma sources",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "Major among them is the extent to which in vitro plasma effects depend on long-lived species or other effectors of the multicomponent system plasma, such as UV-radiation or electrical fields .",
+      "entities": [
+        {
+          "entity_id": 46,
+          "start": 26,
+          "end": 27,
+          "text": "UV-radiation",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 47,
+          "start": 28,
+          "end": 30,
+          "text": "electrical fields",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "Therefore, two main types of plasma sources, a floating-electrode dielectric barriers discharge [10] and an atmospheric pressure argon plasma jet [11] were compared with regard to cell growth reduction and its dependence on main plasma active components .",
+      "entities": [
+        {
+          "entity_id": 48,
+          "start": 5,
+          "end": 7,
+          "text": "plasma sources,",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 49,
+          "start": 8,
+          "end": 12,
+          "text": "floating-electrode dielectric barriers discharge",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 50,
+          "start": 9,
+          "end": 12,
+          "text": "dielectric barriers discharge",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 2,
+          "start": 15,
+          "end": 17,
+          "text": "atmospheric pressure",
+          "type": "G#PlasmaProperties"
+        },
+        {
+          "entity_id": 32,
+          "start": 16,
+          "end": 17,
+          "text": "pressure",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 3,
+          "start": 17,
+          "end": 18,
+          "text": "argon",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 33,
+          "start": 17,
+          "end": 20,
+          "text": "argon plasma jet",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 34,
+          "start": 18,
+          "end": 20,
+          "text": "plasma jet",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 51,
+          "start": 26,
+          "end": 29,
+          "text": "cell growth reduction",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 52,
+          "start": 34,
+          "end": 37,
+          "text": "plasma active components",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "The sources were chosen because they have been of relevance in plasma medical research for more than a decade and thus were subject to extensive physical characterization [12] .",
+      "entities": [
+        {
+          "entity_id": 53,
+          "start": 11,
+          "end": 14,
+          "text": "plasma medical research",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 54,
+          "start": 25,
+          "end": 27,
+          "text": "physical characterization",
+          "type": "G#Experiment"
+        }
+      ]
+    },
+    {
+      "text": "To compare plasma effects across labs which is easy to perform, cheap and could be applicable for clinical device calibration, a simple biological read-out was chosen .",
+      "entities": [
+        {
+          "entity_id": 55,
+          "start": 2,
+          "end": 4,
+          "text": "plasma effects",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 56,
+          "start": 17,
+          "end": 20,
+          "text": "clinical device calibration,",
+          "type": "G#DiagnosticDevice"
+        }
+      ]
+    },
+    {
+      "text": "Plasma medical research inevitably involves experiments on reactive species because these were found to be central effectors in a number of biological targets exposed to plasma, such as skin cells [13][14][15], immune cells [16][17][18], and cancer cells .",
+      "entities": [
+        {
+          "entity_id": 57,
+          "start": 7,
+          "end": 9,
+          "text": "reactive species",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 58,
+          "start": 28,
+          "end": 30,
+          "text": "skin cells",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 59,
+          "start": 31,
+          "end": 33,
+          "text": "immune cells",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 60,
+          "start": 35,
+          "end": 37,
+          "text": "cancer cells",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "In many instances, hydrogen peroxide (H 2 O 2 ) was an important mediator in these in vitro experiments [53][54][55] .",
+      "entities": [
+        {
+          "entity_id": 61,
+          "start": 3,
+          "end": 5,
+          "text": "hydrogen peroxide",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 62,
+          "start": 5,
+          "end": 9,
+          "text": "(H 2 O 2",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "H 2 O 2 is not necessarily toxic by itself but rather exerts its biological effects through secondary processes, for example, Fenton reaction [56], by acting as substrate for oxygenases [57], and in redox signaling events enabling the translation of redox events into distinct biological responses [58] .",
+      "entities": [
+        {
+          "entity_id": 14,
+          "start": 0,
+          "end": 4,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 63,
+          "start": 19,
+          "end": 23,
+          "text": "for example, Fenton reaction",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 64,
+          "start": 21,
+          "end": 23,
+          "text": "Fenton reaction",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 65,
+          "start": 29,
+          "end": 30,
+          "text": "oxygenases",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 66,
+          "start": 31,
+          "end": 46,
+          "text": "and in redox signaling events enabling the translation of redox events into distinct biological responses",
+          "type": "G#DiagnosticDevice"
+        },
+        {
+          "entity_id": 67,
+          "start": 33,
+          "end": 35,
+          "text": "redox signaling",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 68,
+          "start": 33,
+          "end": 36,
+          "text": "redox signaling events",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 69,
+          "start": 33,
+          "end": 38,
+          "text": "redox signaling events enabling the",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "We selected CT26 murine colon cancer cells for this work because H 2 O 2 has been previously identified as inducing apoptotic but not the necroptotic cell death pathway in these cells [59,60] .",
+      "entities": [
+        {
+          "entity_id": 14,
+          "start": 11,
+          "end": 15,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 70,
+          "start": 25,
+          "end": 29,
+          "text": "necroptotic cell death pathway",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "CT26 colon cancer monolayer cultures were exposed to either DBD or argon jet plasma .",
+      "entities": [
+        {
+          "entity_id": 71,
+          "start": 9,
+          "end": 10,
+          "text": "DBD",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 3,
+          "start": 11,
+          "end": 12,
+          "text": "argon",
+          "type": "G#PlasmaMedium"
+        }
+      ]
+    },
+    {
+      "text": "Plasma source dependent, our results demonstrate that H 2 O 2 correlates with inhibition of CT26 metabolic activity .",
+      "entities": [
+        {
+          "entity_id": 14,
+          "start": 7,
+          "end": 11,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 72,
+          "start": 13,
+          "end": 18,
+          "text": "inhibition of CT26 metabolic activity",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "It plays a central but not exclusive role in plasma-induced cell toxicity .",
+      "entities": [
+        {
+          "entity_id": 73,
+          "start": 9,
+          "end": 12,
+          "text": "plasma-induced cell toxicity",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "Materials and Methods Cell Culture Murine CT26 colon cancer cells were maintained in cell culture flasks in Rosswell Park Memorial Institute 1640 (RPMI1640) cell culture medium supplemented with 10% fetal bovine serum (FCS), 2% glutamine, and 1% penicillin/streptomycin (all Sigma) .",
+      "entities": [
+        {
+          "entity_id": 74,
+          "start": 23,
+          "end": 26,
+          "text": "cell culture medium",
+          "type": "G#DiagnosticDevice"
+        },
+        {
+          "entity_id": 75,
+          "start": 32,
+          "end": 34,
+          "text": "(FCS), 2%",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 76,
+          "start": 34,
+          "end": 35,
+          "text": "glutamine,",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 77,
+          "start": 37,
+          "end": 38,
+          "text": "penicillin/streptomycin",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "For culturing and experiments, cells were maintained in standard incubation conditions at 37°C with 95% humidified atmosphere and 5% carbon dioxide .",
+      "entities": [
+        {
+          "entity_id": 78,
+          "start": 1,
+          "end": 2,
+          "text": "culturing",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 79,
+          "start": 15,
+          "end": 17,
+          "text": "humidified atmosphere",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 80,
+          "start": 19,
+          "end": 21,
+          "text": "carbon dioxide",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "DBD Plasma Treatment Treatment of cells with the DBD plasma system was performed in the absence of liquid unless otherwise specified .",
+      "entities": [
+        {
+          "entity_id": 24,
+          "start": 17,
+          "end": 18,
+          "text": "liquid",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "The DBD electrode used was 1.3 cm in diameter and fit into the wells of a 24-well plate .",
+      "entities": [
+        {
+          "entity_id": 81,
+          "start": 1,
+          "end": 2,
+          "text": "DBD",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 82,
+          "start": 8,
+          "end": 9,
+          "text": "diameter",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "Cells were treated with plasma as previously described [61] .",
+      "entities": []
+    },
+    {
+      "text": "Briefly, CT26 cells were seeded at 1.5 9 10 5 cells per well in 0.5 ml of fully supplemented cell culture medium and incubated overnight at 37°C with 5% CO 2 .",
+      "entities": [
+        {
+          "entity_id": 83,
+          "start": 29,
+          "end": 31,
+          "text": "CO 2",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "Prior to plasma treatment, cells were washed twice with PBS, and PBS from the second wash was removed immediately before plasma exposure .",
+      "entities": [
+        {
+          "entity_id": 84,
+          "start": 2,
+          "end": 4,
+          "text": "plasma treatment,",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 85,
+          "start": 9,
+          "end": 10,
+          "text": "PBS,",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 86,
+          "start": 11,
+          "end": 12,
+          "text": "PBS",
+          "type": "G#PlasmaTarget"
+        }
+      ]
+    },
+    {
+      "text": "Plasma was generated by applying a high voltage pulse to the DBD electrode 1 mm above the cells in the well .",
+      "entities": [
+        {
+          "entity_id": 87,
+          "start": 6,
+          "end": 9,
+          "text": "high voltage pulse",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 88,
+          "start": 7,
+          "end": 9,
+          "text": "voltage pulse",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 81,
+          "start": 11,
+          "end": 12,
+          "text": "DBD",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 89,
+          "start": 14,
+          "end": 15,
+          "text": "mm",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "The pulse was generated with a nanosecond pulser (FPB-20-05NM, FID GmbH, Burbach, Germany) and the frequency of pulses was controlled with an external function generator (TTi, TG5011 LXT, Philadelphia, PA, USA) .",
+      "entities": [
+        {
+          "entity_id": 90,
+          "start": 6,
+          "end": 7,
+          "text": "nanosecond",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 91,
+          "start": 6,
+          "end": 8,
+          "text": "nanosecond pulser",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 92,
+          "start": 8,
+          "end": 13,
+          "text": "(FPB-20-05NM, FID GmbH, Burbach, Germany)",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 93,
+          "start": 15,
+          "end": 16,
+          "text": "frequency",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 94,
+          "start": 22,
+          "end": 25,
+          "text": "external function generator",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 95,
+          "start": 25,
+          "end": 31,
+          "text": "(TTi, TG5011 LXT, Philadelphia, PA, USA)",
+          "type": "G#PowerSupply"
+        }
+      ]
+    },
+    {
+      "text": "Treatment time was fixed at 10 s unless otherwise specified .",
+      "entities": [
+        {
+          "entity_id": 96,
+          "start": 6,
+          "end": 7,
+          "text": "s",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "In some experiments, either treatment time or pulse frequency was altered to deliver a fixed plasma treatment energy over different times .",
+      "entities": [
+        {
+          "entity_id": 97,
+          "start": 5,
+          "end": 6,
+          "text": "time",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 98,
+          "start": 7,
+          "end": 9,
+          "text": "pulse frequency",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 27,
+          "start": 15,
+          "end": 17,
+          "text": "plasma treatment",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 99,
+          "start": 17,
+          "end": 18,
+          "text": "energy",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 100,
+          "start": 20,
+          "end": 21,
+          "text": "times",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "For the DBD comparative study, a microsecond pulse (0.07 mJ/pulse) was also used .",
+      "entities": [
+        {
+          "entity_id": 101,
+          "start": 2,
+          "end": 5,
+          "text": "DBD comparative study,",
+          "type": "G#Experiment"
+        },
+        {
+          "entity_id": 102,
+          "start": 6,
+          "end": 8,
+          "text": "microsecond pulse",
+          "type": "G#PowerSupply"
+        }
+      ]
+    },
+    {
+      "text": "The energy per pulse from both system was measured as previously described [62,63] and total plasma energy delivered to the cells for both systems were calculated from treatment time, pulse frequency and energy per pulse .",
+      "entities": [
+        {
+          "entity_id": 99,
+          "start": 1,
+          "end": 2,
+          "text": "energy",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 103,
+          "start": 14,
+          "end": 17,
+          "text": "total plasma energy",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 98,
+          "start": 29,
+          "end": 31,
+          "text": "pulse frequency",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 99,
+          "start": 32,
+          "end": 33,
+          "text": "energy",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "Complete media was added to each well after plasma treatment and cells were incubated overnight before viability was measured .",
+      "entities": [
+        {
+          "entity_id": 27,
+          "start": 8,
+          "end": 10,
+          "text": "plasma treatment",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 104,
+          "start": 16,
+          "end": 17,
+          "text": "viability",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "Pulse parameters of both the nanosecond-and the microsecond-pulsed DBD system are summarized in Table 1 .",
+      "entities": [
+        {
+          "entity_id": 105,
+          "start": 5,
+          "end": 6,
+          "text": "nanosecond-and",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 106,
+          "start": 7,
+          "end": 8,
+          "text": "microsecond-pulsed",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 107,
+          "start": 7,
+          "end": 10,
+          "text": "microsecond-pulsed DBD system",
+          "type": "G#Experiment"
+        }
+      ]
+    },
+    {
+      "text": "Jet Plasma Treatment Treatment with the genotoxically-safe [64][65][66] atmospheric pressure argon plasma jet kINPen 11 (similar in construction to the kINPen MED that has received accreditation as medical device in Germany; neoplas control, Germany) operated at a feed gas flux of three standard liters per minute (SLPM) of Argon gas (Air Liquide, France) was performed as described previously [67] .",
+      "entities": [
+        {
+          "entity_id": 2,
+          "start": 8,
+          "end": 10,
+          "text": "atmospheric pressure",
+          "type": "G#PlasmaProperties"
+        },
+        {
+          "entity_id": 32,
+          "start": 9,
+          "end": 10,
+          "text": "pressure",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 3,
+          "start": 10,
+          "end": 11,
+          "text": "argon",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 33,
+          "start": 10,
+          "end": 13,
+          "text": "argon plasma jet",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 34,
+          "start": 11,
+          "end": 13,
+          "text": "plasma jet",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 108,
+          "start": 37,
+          "end": 39,
+          "text": "feed gas",
+          "type": "G#PlasmaMedium"
+        }
+      ]
+    },
+    {
+      "text": "It is a DBD-like jet, with a central pin electrode shielded against an outer electrode by a dielectric, powered by 2-6 kV at 1 MHz .",
+      "entities": [
+        {
+          "entity_id": 109,
+          "start": 3,
+          "end": 5,
+          "text": "DBD-like jet,",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 110,
+          "start": 24,
+          "end": 25,
+          "text": "MHz",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "Briefly, 1 9 10 5 CT26 cells in 1 ml of fully supplemented cell culture medium were added to each well of a 24-well plate, and incubated overnight .",
+      "entities": [
+        {
+          "entity_id": 111,
+          "start": 5,
+          "end": 6,
+          "text": "CT26",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 112,
+          "start": 9,
+          "end": 10,
+          "text": "ml",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "In some experiments, 5 lg/ml of the H 2 O 2 -scavenging enzyme catalase (Sigma) was added prior to plasma treatment .",
+      "entities": [
+        {
+          "entity_id": 13,
+          "start": 7,
+          "end": 9,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 113,
+          "start": 14,
+          "end": 15,
+          "text": "(Sigma)",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 27,
+          "start": 19,
+          "end": 21,
+          "text": "plasma treatment",
+          "type": "G#PlasmaApplication"
+        }
+      ]
+    },
+    {
+      "text": "A layout was programmed for a computer-driven xyz-table (CNC, Germany) hovering the plasma jet over the center of each well at a predetermined distance for the indicated treatment time .",
+      "entities": [
+        {
+          "entity_id": 114,
+          "start": 8,
+          "end": 10,
+          "text": "(CNC, Germany)",
+          "type": "G#DiagnosticDevice"
+        },
+        {
+          "entity_id": 34,
+          "start": 12,
+          "end": 14,
+          "text": "plasma jet",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 115,
+          "start": 23,
+          "end": 24,
+          "text": "distance",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 97,
+          "start": 28,
+          "end": 29,
+          "text": "time",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "To compensate for evaporation of liquid, a predetermined amount of double-distilled water was added after plasma treatment .",
+      "entities": [
+        {
+          "entity_id": 116,
+          "start": 3,
+          "end": 4,
+          "text": "evaporation",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 117,
+          "start": 11,
+          "end": 12,
+          "text": "water",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 27,
+          "start": 15,
+          "end": 17,
+          "text": "plasma treatment",
+          "type": "G#PlasmaApplication"
+        }
+      ]
+    },
+    {
+      "text": "Cytotoxicity Cytotoxicity was assessed as a measure of total metabolic activity .",
+      "entities": [
+        {
+          "entity_id": 118,
+          "start": 9,
+          "end": 11,
+          "text": "metabolic activity",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "After treatment, cells were incubated for 21 h at 37°C .",
+      "entities": [
+        {
+          "entity_id": 119,
+          "start": 7,
+          "end": 8,
+          "text": "h",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "The medium was replaced with 1 ml of fully supplemented cell culture medium without phenol red and containing 100 lM of resazurin (Alfa Aesar, USA Software Graphing, calculation of mean and standard deviation (S.D.), and linear regressions were done using prism software (Graphpad, USA) .",
+      "entities": [
+        {
+          "entity_id": 112,
+          "start": 6,
+          "end": 7,
+          "text": "ml",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 120,
+          "start": 14,
+          "end": 15,
+          "text": "phenol",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 121,
+          "start": 19,
+          "end": 20,
+          "text": "lM",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 122,
+          "start": 21,
+          "end": 22,
+          "text": "resazurin",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 123,
+          "start": 35,
+          "end": 37,
+          "text": "linear regressions",
+          "type": "G#Modelling"
+        }
+      ]
+    },
+    {
+      "text": "One-way analysis of variances was performed using prism as well .",
+      "entities": []
+    },
+    {
+      "text": "Results DBD and Jet Growth Inhibition of CT26 Cells and Relationship to H 2 O 2 Deposition in Liquids CT26 cells were treated with DBD ( Fig .",
+      "entities": [
+        {
+          "entity_id": 13,
+          "start": 12,
+          "end": 14,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 124,
+          "start": 14,
+          "end": 17,
+          "text": "O 2 Deposition",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "1a) or jet ( Fig .",
+      "entities": []
+    },
+    {
+      "text": "1b) plasma, and metabolic activity was assessed after 24 h .",
+      "entities": []
+    },
+    {
+      "text": "At constant treatment times of 10 s, DBD toxicity increased with higher energy doses, giving a 50% inhibitory concentration (IC50) at about 740 mJ ( Fig .",
+      "entities": [
+        {
+          "entity_id": 125,
+          "start": 6,
+          "end": 7,
+          "text": "s,",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 99,
+          "start": 12,
+          "end": 13,
+          "text": "energy",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 11,
+          "start": 17,
+          "end": 19,
+          "text": "inhibitory concentration",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 126,
+          "start": 23,
+          "end": 24,
+          "text": "mJ",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "2a) .",
+      "entities": []
+    },
+    {
+      "text": "The kINPen plasma cannot be tuned electrically as settings are fixed .",
+      "entities": [
+        {
+          "entity_id": 127,
+          "start": 1,
+          "end": 2,
+          "text": "kINPen",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "Hence, dosimetry and increase in 'energy' can only be achieved by extending the treatment time .",
+      "entities": []
+    },
+    {
+      "text": "As expected, the latter was proportional to cellular toxicity with an IC50 of 100 s (Fig .",
+      "entities": [
+        {
+          "entity_id": 128,
+          "start": 7,
+          "end": 9,
+          "text": "cellular toxicity",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 96,
+          "start": 14,
+          "end": 15,
+          "text": "s",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "2b) .",
+      "entities": []
+    },
+    {
+      "text": "At IC50 treatment conditions, H 2 O 2 deposition by DBD and jet plasma was 50 lM (Fig .",
+      "entities": [
+        {
+          "entity_id": 129,
+          "start": 1,
+          "end": 3,
+          "text": "IC50 treatment",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 13,
+          "start": 4,
+          "end": 6,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 14,
+          "start": 4,
+          "end": 8,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 6,
+          "end": 8,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 17,
+          "start": 8,
+          "end": 9,
+          "text": "deposition",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 81,
+          "start": 10,
+          "end": 11,
+          "text": "DBD",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "2c) and 115 lM (Fig .",
+      "entities": [
+        {
+          "entity_id": 130,
+          "start": 3,
+          "end": 5,
+          "text": "lM (Fig",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "2d), respectively .",
+      "entities": []
+    },
+    {
+      "text": "In both cases, H 2 O 2 levels increased with energy or time of exposure .",
+      "entities": [
+        {
+          "entity_id": 13,
+          "start": 3,
+          "end": 5,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 5,
+          "end": 7,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 99,
+          "start": 10,
+          "end": 11,
+          "text": "energy",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 97,
+          "start": 12,
+          "end": 13,
+          "text": "time",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "Therefore, toxicity increased proportionally with increased energy and/or plasma treatment time, and concentrations of plasma-generated H 2 O 2 correlated with that .",
+      "entities": [
+        {
+          "entity_id": 99,
+          "start": 6,
+          "end": 7,
+          "text": "energy",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 27,
+          "start": 8,
+          "end": 10,
+          "text": "plasma treatment",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 23,
+          "start": 10,
+          "end": 11,
+          "text": "time,",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 13,
+          "start": 15,
+          "end": 17,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 14,
+          "start": 15,
+          "end": 19,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 17,
+          "end": 19,
+          "text": "O 2",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "Energy Input and Amount of Liquid were Imperative for DBD Plasma Toxicity CT26 cells were treated with varying nanosecond-pulsed DBD plasma treatment times having an overall constant energy input of IC50-related 700 mJ .",
+      "entities": [
+        {
+          "entity_id": 131,
+          "start": 18,
+          "end": 19,
+          "text": "nanosecond-pulsed",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 81,
+          "start": 19,
+          "end": 20,
+          "text": "DBD",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 27,
+          "start": 20,
+          "end": 22,
+          "text": "plasma treatment",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 132,
+          "start": 27,
+          "end": 29,
+          "text": "energy input",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 126,
+          "start": 32,
+          "end": 33,
+          "text": "mJ",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "Overall toxicity was very similar under all treatment conditions (Fig .",
+      "entities": []
+    },
+    {
+      "text": "3a) .",
+      "entities": []
+    },
+    {
+      "text": "Corroborating these results, similar H 2 O 2 concentrations were measured for all treatment times having the same total energy input (Fig .",
+      "entities": [
+        {
+          "entity_id": 14,
+          "start": 4,
+          "end": 8,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 133,
+          "start": 4,
+          "end": 9,
+          "text": "H 2 O 2 concentrations",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 16,
+          "start": 6,
+          "end": 8,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 20,
+          "start": 18,
+          "end": 21,
+          "text": "total energy input",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "3b) .",
+      "entities": []
+    },
+    {
+      "text": "To understand the impact of plasma pulse duration, the DBD plasma was operated at microsecond instead of nanosecond pulsing .",
+      "entities": [
+        {
+          "entity_id": 81,
+          "start": 9,
+          "end": 10,
+          "text": "DBD",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 134,
+          "start": 14,
+          "end": 15,
+          "text": "microsecond",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 90,
+          "start": 17,
+          "end": 18,
+          "text": "nanosecond",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 135,
+          "start": 17,
+          "end": 19,
+          "text": "nanosecond pulsing",
+          "type": "G#PowerSupply"
+        }
+      ]
+    },
+    {
+      "text": "Toxicity correlated with increasing energy dosages yielding an IC50 of 768 mJ (Fig .",
+      "entities": [
+        {
+          "entity_id": 136,
+          "start": 4,
+          "end": 6,
+          "text": "energy dosages",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 137,
+          "start": 11,
+          "end": 13,
+          "text": "mJ (Fig",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "3b) .",
+      "entities": []
+    },
+    {
+      "text": "This energy generated about 47 lM of H 2 O 2 (Fig .",
+      "entities": [
+        {
+          "entity_id": 99,
+          "start": 1,
+          "end": 2,
+          "text": "energy",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 121,
+          "start": 5,
+          "end": 6,
+          "text": "lM",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 138,
+          "start": 7,
+          "end": 12,
+          "text": "H 2 O 2 (Fig",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 139,
+          "start": 9,
+          "end": 12,
+          "text": "O 2 (Fig",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "3d) .",
+      "entities": []
+    },
+    {
+      "text": "Both the IC50 (768 mJ) and H 2 O 2 generation (47 lM) in microsecond plasma mode were very similar to that of the nanosecond plasma (742 mJ and 50 lM, respectively) .",
+      "entities": [
+        {
+          "entity_id": 140,
+          "start": 2,
+          "end": 3,
+          "text": "IC50",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 14,
+          "start": 6,
+          "end": 10,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 8,
+          "end": 10,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 141,
+          "start": 12,
+          "end": 13,
+          "text": "lM)",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 142,
+          "start": 14,
+          "end": 17,
+          "text": "microsecond plasma mode",
+          "type": "G#DischargeRegime"
+        },
+        {
+          "entity_id": 90,
+          "start": 24,
+          "end": 25,
+          "text": "nanosecond",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "These observations suggest that the impact of the pulsing frequency and treatment time on toxicity were negligible as long as the total plasma energy was maintained .",
+      "entities": [
+        {
+          "entity_id": 143,
+          "start": 8,
+          "end": 10,
+          "text": "pulsing frequency",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 144,
+          "start": 9,
+          "end": 10,
+          "text": "frequency",
+          "type": "G#PowerSupply"
+        },
+        {
+          "entity_id": 145,
+          "start": 14,
+          "end": 15,
+          "text": "toxicity",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 103,
+          "start": 21,
+          "end": 24,
+          "text": "total plasma energy",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "In addition, H 2 O 2 seemed to correlate well with metabolic attenuation of cells .",
+      "entities": [
+        {
+          "entity_id": 14,
+          "start": 2,
+          "end": 6,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 146,
+          "start": 11,
+          "end": 13,
+          "text": "metabolic attenuation",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "This was, at least in part, supported by the finding that with increasing cell densities, IC50 values began to increase for cell densities exceeding 1.25 9 10 5 /well (Fig .",
+      "entities": [
+        {
+          "entity_id": 147,
+          "start": 13,
+          "end": 15,
+          "text": "cell densities,",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 148,
+          "start": 21,
+          "end": 23,
+          "text": "cell densities",
+          "type": "G#PhysicalQuantity"
+        }
+      ]
+    },
+    {
+      "text": "4a) .",
+      "entities": []
+    },
+    {
+      "text": "Specifically, metabolic inhibition of cell densities below 2 9 10 5 differed significantly although statistical comparison between all other groups was non-significant .",
+      "entities": [
+        {
+          "entity_id": 149,
+          "start": 1,
+          "end": 3,
+          "text": "metabolic inhibition",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "Nonetheless, this result indicates the involvement of additional contributors to plasma toxicity other than (Fig .",
+      "entities": [
+        {
+          "entity_id": 25,
+          "start": 10,
+          "end": 12,
+          "text": "plasma toxicity",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 150,
+          "start": 14,
+          "end": 15,
+          "text": "(Fig",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "2c) whereas a dilution series of H 2 O 2 alone in 500 ll final volume identified an IC50 of 2062 lM (Fig .",
+      "entities": [
+        {
+          "entity_id": 13,
+          "start": 6,
+          "end": 8,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 14,
+          "start": 6,
+          "end": 10,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 8,
+          "end": 10,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 151,
+          "start": 13,
+          "end": 14,
+          "text": "ll",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "5a) .",
+      "entities": []
+    },
+    {
+      "text": "In contrast, for the jet plasma IC50, corresponding peroxide concentrations were 115 lM whereas a dilution series of H 2 O 2 alone in 1000 ll final volume revealed an IC50 of 125 lM (Fig .",
+      "entities": [
+        {
+          "entity_id": 152,
+          "start": 4,
+          "end": 6,
+          "text": "jet plasma",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 153,
+          "start": 8,
+          "end": 10,
+          "text": "peroxide concentrations",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 121,
+          "start": 12,
+          "end": 13,
+          "text": "lM",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 13,
+          "start": 18,
+          "end": 20,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 20,
+          "end": 22,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 151,
+          "start": 25,
+          "end": 26,
+          "text": "ll",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 154,
+          "start": 27,
+          "end": 28,
+          "text": "volume",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 121,
+          "start": 33,
+          "end": 34,
+          "text": "lM",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 130,
+          "start": 33,
+          "end": 35,
+          "text": "lM (Fig",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "5b) .",
+      "entities": []
+    },
+    {
+      "text": "These data suggested that H 2 O 2 was central in cellular effects from jet plasma and only partially in DBD plasma toxicity, with a contribution of additional effectors in the latter system .",
+      "entities": [
+        {
+          "entity_id": 14,
+          "start": 4,
+          "end": 8,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 155,
+          "start": 11,
+          "end": 13,
+          "text": "cellular effects",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 156,
+          "start": 20,
+          "end": 23,
+          "text": "DBD plasma toxicity,",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "This was expected because direct DBD operation is associated with a significant amount of charged and short-lived chemically active species .",
+      "entities": [
+        {
+          "entity_id": 157,
+          "start": 14,
+          "end": 20,
+          "text": "charged and short-lived chemically active species",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "To underline this finding for the jet plasma, CT26 cells were treated for 150 s with argon gas alone, plasma, or plasma in presence of the H 2 O 2 -scavenging enzyme catalase .",
+      "entities": [
+        {
+          "entity_id": 96,
+          "start": 14,
+          "end": 15,
+          "text": "s",
+          "type": "G#Unit"
+        },
+        {
+          "entity_id": 3,
+          "start": 16,
+          "end": 17,
+          "text": "argon",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 158,
+          "start": 16,
+          "end": 18,
+          "text": "argon gas",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 13,
+          "start": 26,
+          "end": 28,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 159,
+          "start": 26,
+          "end": 31,
+          "text": "H 2 O 2 -scavenging",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "Plasma treatment alone markedly reduced cell viability compared to argon gas control, whereas presence of catalase abolished plasma toxicity (Fig .",
+      "entities": [
+        {
+          "entity_id": 160,
+          "start": 5,
+          "end": 7,
+          "text": "cell viability",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 161,
+          "start": 9,
+          "end": 10,
+          "text": "argon",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 162,
+          "start": 15,
+          "end": 16,
+          "text": "catalase",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "5c) .",
+      "entities": []
+    },
+    {
+      "text": "Discussion With regard to in vitro cell culture experiments, jet plasmas and most DBDs differ in one important parameter: the use of external feed gas .",
+      "entities": [
+        {
+          "entity_id": 163,
+          "start": 13,
+          "end": 14,
+          "text": "DBDs",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 164,
+          "start": 22,
+          "end": 25,
+          "text": "external feed gas",
+          "type": "G#PlasmaMedium"
+        }
+      ]
+    },
+    {
+      "text": "Once in direct contact with cells, feed gas-even in the plasma-off mode-immediately necrotizes cells due to drying effects -well plates were exposed to the IC50 dose of DBD plasma .",
+      "entities": [
+        {
+          "entity_id": 165,
+          "start": 6,
+          "end": 8,
+          "text": "feed gas-even",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 166,
+          "start": 10,
+          "end": 12,
+          "text": "plasma-off mode-immediately",
+          "type": "G#DischargeRegime"
+        }
+      ]
+    },
+    {
+      "text": "b 1 9 10 5 cells per well in 24-well plates with varying amounts of PBS were exposed to the IC50 dose of DBD plasma .",
+      "entities": [
+        {
+          "entity_id": 167,
+          "start": 15,
+          "end": 16,
+          "text": "PBS",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 71,
+          "start": 23,
+          "end": 24,
+          "text": "DBD",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "In all experiments, metabolic activity was assessed after 24 h and normalized to that of untreated control cells .",
+      "entities": [
+        {
+          "entity_id": 119,
+          "start": 9,
+          "end": 10,
+          "text": "h",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "Data are presented as mean with SD; statistical analysis was performed using one-ways analysis of variances comparing all group means with Tukey post-testing (unpublished observation) .",
+      "entities": []
+    },
+    {
+      "text": "Therefore, plasma jet experiments with large gas fluxes require sufficient amounts of liquid that-even if parts of liquid are blown aside-shields cells from dehydration .",
+      "entities": [
+        {
+          "entity_id": 34,
+          "start": 1,
+          "end": 3,
+          "text": "plasma jet",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 168,
+          "start": 6,
+          "end": 8,
+          "text": "gas fluxes",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 24,
+          "start": 12,
+          "end": 13,
+          "text": "liquid",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 169,
+          "start": 17,
+          "end": 18,
+          "text": "liquid",
+          "type": "G#PlasmaTarget"
+        },
+        {
+          "entity_id": 170,
+          "start": 23,
+          "end": 24,
+          "text": "dehydration",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "Excess presence of liquids, however, offers competing non-cellular targets to react with short-lived species, leading to dominant effects of long-lived oxidants on cells .",
+      "entities": [
+        {
+          "entity_id": 171,
+          "start": 20,
+          "end": 21,
+          "text": "oxidants",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "In contrast, DBD plasmas streamers come in direct contact with cells .",
+      "entities": [
+        {
+          "entity_id": 172,
+          "start": 4,
+          "end": 5,
+          "text": "streamers",
+          "type": "G#DischargeRegime"
+        }
+      ]
+    },
+    {
+      "text": "Compared to jet plasmas, this increases the contribution of (low range) UV-radiation, electrical fields, and short-lived species to any biological effect observed .",
+      "entities": [
+        {
+          "entity_id": 173,
+          "start": 2,
+          "end": 4,
+          "text": "jet plasmas,",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "The importance of excess liquid as ''scavenger'' was exemplified by our results showing full abrogation of DBD plasma effects with addition of 200 ll or more .",
+      "entities": [
+        {
+          "entity_id": 24,
+          "start": 4,
+          "end": 5,
+          "text": "liquid",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 174,
+          "start": 14,
+          "end": 19,
+          "text": "abrogation of DBD plasma effects",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 81,
+          "start": 16,
+          "end": 17,
+          "text": "DBD",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "Reactive molecules are known to be crucial regulators of cellular activity in health and disease [68][69][70] .",
+      "entities": []
+    },
+    {
+      "text": "Undoubtedly, reactive species are central mediators of biological plasma effects [71] .",
+      "entities": [
+        {
+          "entity_id": 57,
+          "start": 1,
+          "end": 3,
+          "text": "reactive species",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 175,
+          "start": 7,
+          "end": 10,
+          "text": "biological plasma effects",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "Many types have been identified in plasma-treated liquids in the past years [72] .",
+      "entities": [
+        {
+          "entity_id": 176,
+          "start": 6,
+          "end": 8,
+          "text": "plasma-treated liquids",
+          "type": "G#PlasmaMedium"
+        }
+      ]
+    },
+    {
+      "text": "For the kINPen plasma jet, this includes for example nitrite, nitrate, hydrogen peroxide, superoxide, hydroxyl radical, peroxynitrite, and singlet oxygen [72][73][74] .",
+      "entities": [
+        {
+          "entity_id": 127,
+          "start": 2,
+          "end": 3,
+          "text": "kINPen",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 177,
+          "start": 2,
+          "end": 5,
+          "text": "kINPen plasma jet,",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 178,
+          "start": 9,
+          "end": 10,
+          "text": "nitrite,",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 179,
+          "start": 10,
+          "end": 11,
+          "text": "nitrate,",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 180,
+          "start": 11,
+          "end": 12,
+          "text": "hydrogen",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 181,
+          "start": 11,
+          "end": 13,
+          "text": "hydrogen peroxide,",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 182,
+          "start": 13,
+          "end": 14,
+          "text": "superoxide,",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 183,
+          "start": 14,
+          "end": 16,
+          "text": "hydroxyl radical,",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 184,
+          "start": 16,
+          "end": 17,
+          "text": "peroxynitrite,",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 185,
+          "start": 19,
+          "end": 20,
+          "text": "oxygen",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "Plasma gas phase analysis suggests the presence of many others [75][76][77] .",
+      "entities": []
+    },
+    {
+      "text": "Yet, if organic target molecules and/or cells are not present at the site of species creation or deposition, short- lived species yield more stable products such as hydrogen peroxide or hypochlorous acid [73] .",
+      "entities": [
+        {
+          "entity_id": 186,
+          "start": 17,
+          "end": 18,
+          "text": "deposition,",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 61,
+          "start": 27,
+          "end": 29,
+          "text": "hydrogen peroxide",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 187,
+          "start": 30,
+          "end": 32,
+          "text": "hypochlorous acid",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "Our results indicated a dominant and a partial role of peroxide for the jet and DBD toxicity, respectively .",
+      "entities": [
+        {
+          "entity_id": 188,
+          "start": 10,
+          "end": 11,
+          "text": "peroxide",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 71,
+          "start": 15,
+          "end": 16,
+          "text": "DBD",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "The latter was especially illustrated by a lower IC50 H 2 O 2 deposition by the DBD compared to the jet, and the non-linear correlation between cell number and DBD cytotoxicity .",
+      "entities": [
+        {
+          "entity_id": 189,
+          "start": 8,
+          "end": 9,
+          "text": "IC50",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 190,
+          "start": 8,
+          "end": 13,
+          "text": "IC50 H 2 O 2",
+          "type": "G#PlasmaMedium"
+        },
+        {
+          "entity_id": 13,
+          "start": 9,
+          "end": 11,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 14,
+          "start": 9,
+          "end": 13,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 11,
+          "end": 13,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 81,
+          "start": 16,
+          "end": 17,
+          "text": "DBD",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 191,
+          "start": 26,
+          "end": 28,
+          "text": "cell number",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 192,
+          "start": 29,
+          "end": 31,
+          "text": "DBD cytotoxicity",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "For the DBD, this suggested additional cytotoxic effectors at work .",
+      "entities": [
+        {
+          "entity_id": 193,
+          "start": 6,
+          "end": 8,
+          "text": "cytotoxic effectors",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "As 200 ll of liquid on top of cells fully abrogated DBD plasma toxicity, these effectors may be for instance poration, UV-radiation, charged particles or short-lived species being decomposed in absence of target cells .",
+      "entities": [
+        {
+          "entity_id": 24,
+          "start": 4,
+          "end": 5,
+          "text": "liquid",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 194,
+          "start": 22,
+          "end": 24,
+          "text": "charged particles",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 195,
+          "start": 32,
+          "end": 34,
+          "text": "target cells",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "For example, the DBD plasma may create nanopores [78] allowing the entry of species into cells by a process similar to aquaporins [79], a route potentially counteracted by excess liquid .",
+      "entities": [
+        {
+          "entity_id": 81,
+          "start": 3,
+          "end": 4,
+          "text": "DBD",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 24,
+          "start": 29,
+          "end": 30,
+          "text": "liquid",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "Also, short wavelength UV radiation is efficiently scavenged by a few hundred nanometers of liquid layer [80] .",
+      "entities": [
+        {
+          "entity_id": 196,
+          "start": 2,
+          "end": 3,
+          "text": "wavelength",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 197,
+          "start": 3,
+          "end": 5,
+          "text": "UV radiation",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 198,
+          "start": 4,
+          "end": 5,
+          "text": "radiation",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 199,
+          "start": 12,
+          "end": 13,
+          "text": "nanometers",
+          "type": "G#Unit"
+        }
+      ]
+    },
+    {
+      "text": "A combination of different plasma properties is also possible as seen with bacteria [81][82][83] .",
+      "entities": [
+        {
+          "entity_id": 200,
+          "start": 4,
+          "end": 6,
+          "text": "plasma properties",
+          "type": "G#PlasmaProperties"
+        }
+      ]
+    },
+    {
+      "text": "Corroborating results of the jet plasma in the present work, presence and concentration of H 2 O 2 strongly correlated with cytotoxic effects of the kINPen [84][85][86] and other jet and DBD plasma sources [87][88][89][90], especially plasma-treated liquids [91][92][93] .",
+      "entities": [
+        {
+          "entity_id": 14,
+          "start": 14,
+          "end": 18,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 201,
+          "start": 21,
+          "end": 23,
+          "text": "cytotoxic effects",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 127,
+          "start": 25,
+          "end": 26,
+          "text": "kINPen",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 202,
+          "start": 29,
+          "end": 34,
+          "text": "jet and DBD plasma sources",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 203,
+          "start": 31,
+          "end": 34,
+          "text": "DBD plasma sources",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "Yet, in a helium/oxygen plasma jet, we previously demonstrated cytotoxicity correlating with short-lived species supporting the generation of hypochlorous acid in aqueous media [94] .",
+      "entities": [
+        {
+          "entity_id": 204,
+          "start": 3,
+          "end": 4,
+          "text": "helium/oxygen",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 205,
+          "start": 3,
+          "end": 6,
+          "text": "helium/oxygen plasma jet,",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 206,
+          "start": 12,
+          "end": 14,
+          "text": "short-lived species",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 207,
+          "start": 16,
+          "end": 23,
+          "text": "generation of hypochlorous acid in aqueous media",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 208,
+          "start": 18,
+          "end": 20,
+          "text": "hypochlorous acid",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "H 2 O 2 itself is a relatively non-reactive molecule with low reaction-constants with biomolecules [95] .",
+      "entities": [
+        {
+          "entity_id": 14,
+          "start": 0,
+          "end": 4,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "Its effects mainly depend on two factors: the presence of catalysts and/ or other oxidants, and the enzymatic profile of the target cells handling oxidants .",
+      "entities": [
+        {
+          "entity_id": 209,
+          "start": 10,
+          "end": 11,
+          "text": "catalysts",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 210,
+          "start": 14,
+          "end": 15,
+          "text": "oxidants,",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 211,
+          "start": 17,
+          "end": 19,
+          "text": "enzymatic profile",
+          "type": "G#PhysicalQuantity"
+        },
+        {
+          "entity_id": 171,
+          "start": 24,
+          "end": 25,
+          "text": "oxidants",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "It is well known the reaction of H 2 O 2 and iron generates highly toxic hydroxyl radicals, by a process known as the Fenton reaction [96] .",
+      "entities": [
+        {
+          "entity_id": 13,
+          "start": 7,
+          "end": 9,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 9,
+          "end": 11,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 212,
+          "start": 12,
+          "end": 13,
+          "text": "iron",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 213,
+          "start": 16,
+          "end": 18,
+          "text": "hydroxyl radicals,",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 214,
+          "start": 17,
+          "end": 18,
+          "text": "radicals,",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 64,
+          "start": 24,
+          "end": 26,
+          "text": "Fenton reaction",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "Hence, iron close to cell membranes, intracellular iron, and/or shuttling of H 2 O 2 through membranes would be important denominators for plasma effects .",
+      "entities": [
+        {
+          "entity_id": 212,
+          "start": 1,
+          "end": 2,
+          "text": "iron",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 14,
+          "start": 11,
+          "end": 15,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "Moreover, synergistic effects of plasma-generated H 2 O 2 with nitrite have been proposed [97] that may act in concert with membrane-based oxidases to form peroxynitrite and other toxic species [98] .",
+      "entities": [
+        {
+          "entity_id": 215,
+          "start": 1,
+          "end": 3,
+          "text": "synergistic effects",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 13,
+          "start": 5,
+          "end": 7,
+          "text": "H 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 14,
+          "start": 5,
+          "end": 9,
+          "text": "H 2 O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 16,
+          "start": 7,
+          "end": 9,
+          "text": "O 2",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 216,
+          "start": 10,
+          "end": 11,
+          "text": "nitrite",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 217,
+          "start": 21,
+          "end": 23,
+          "text": "membrane-based oxidases",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 218,
+          "start": 22,
+          "end": 23,
+          "text": "oxidases",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 219,
+          "start": 25,
+          "end": 26,
+          "text": "peroxynitrite",
+          "type": "G#Species"
+        },
+        {
+          "entity_id": 220,
+          "start": 28,
+          "end": 30,
+          "text": "toxic species",
+          "type": "G#Species"
+        }
+      ]
+    },
+    {
+      "text": "Extracellular trap formation following kINPen plasma treatment was not replicated by addition of hydrogen peroxide alone either [99] .",
+      "entities": [
+        {
+          "entity_id": 221,
+          "start": 1,
+          "end": 3,
+          "text": "trap formation",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 222,
+          "start": 4,
+          "end": 7,
+          "text": "kINPen plasma treatment",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 61,
+          "start": 13,
+          "end": 15,
+          "text": "hydrogen peroxide",
+          "type": "G#ElectrodeMaterial"
+        }
+      ]
+    },
+    {
+      "text": "In addition, redox enzymes and antioxidant defenses guide diverse cell fates when two different cell types are subjected to the same plasma treatment [100] .",
+      "entities": [
+        {
+          "entity_id": 223,
+          "start": 2,
+          "end": 4,
+          "text": "redox enzymes",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 224,
+          "start": 5,
+          "end": 7,
+          "text": "antioxidant defenses",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 27,
+          "start": 21,
+          "end": 23,
+          "text": "plasma treatment",
+          "type": "G#PlasmaApplication"
+        }
+      ]
+    },
+    {
+      "text": "Nonetheless, in vitro cell cultures are only model systems that may guide in vivo studies .",
+      "entities": [
+        {
+          "entity_id": 225,
+          "start": 1,
+          "end": 5,
+          "text": "in vitro cell cultures",
+          "type": "G#PlasmaApplication"
+        }
+      ]
+    },
+    {
+      "text": "It is important to considered that the biomolecule to liquid ratio in tissues is much lower than in vitro systems .",
+      "entities": []
+    },
+    {
+      "text": "There are several challenges before the translation of in vitro plasma effects to in vivo effects becomes intuitive .",
+      "entities": []
+    },
+    {
+      "text": "The species variety is unique to cold plasmas with their concentration depending on the plasma source .",
+      "entities": [
+        {
+          "entity_id": 226,
+          "start": 6,
+          "end": 8,
+          "text": "cold plasmas",
+          "type": "G#PlasmaProperties"
+        },
+        {
+          "entity_id": 227,
+          "start": 14,
+          "end": 16,
+          "text": "plasma source",
+          "type": "G#PlasmaProperties"
+        }
+      ]
+    },
+    {
+      "text": "Methods to directly detect short-lived species in tissues are currently unavailable .",
+      "entities": []
+    },
+    {
+      "text": "Modeling studies suggest that plasma in direct contact with a target alters species deposition and cell membrane oxidation [101][102][103] .",
+      "entities": [
+        {
+          "entity_id": 228,
+          "start": 12,
+          "end": 14,
+          "text": "species deposition",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 229,
+          "start": 15,
+          "end": 18,
+          "text": "cell membrane oxidation",
+          "type": "G#PhysicalEffect"
+        },
+        {
+          "entity_id": 230,
+          "start": 17,
+          "end": 18,
+          "text": "oxidation",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "Experimentally, plasma-derived oxidants have been shown to be deposited on cells and liquids through plasma-treated agarose membranes [104] and micropores [105], which may facilitate the deciphering effects of jet plasma short-lived species in cells .",
+      "entities": [
+        {
+          "entity_id": 171,
+          "start": 2,
+          "end": 3,
+          "text": "oxidants",
+          "type": "G#ElectrodeMaterial"
+        },
+        {
+          "entity_id": 231,
+          "start": 14,
+          "end": 17,
+          "text": "plasma-treated agarose membranes",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 152,
+          "start": 28,
+          "end": 30,
+          "text": "jet plasma",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "While this study was not comprehensive and has limitations, it is the first attempt to find common and divergent themes between different plasma sources intended for future medical applications .",
+      "entities": [
+        {
+          "entity_id": 0,
+          "start": 22,
+          "end": 24,
+          "text": "plasma sources",
+          "type": "G#PlasmaSource"
+        },
+        {
+          "entity_id": 232,
+          "start": 27,
+          "end": 29,
+          "text": "medical applications",
+          "type": "G#PlasmaApplication"
+        }
+      ]
+    },
+    {
+      "text": "Only one type of DBD and jet plasma source was investigated .",
+      "entities": [
+        {
+          "entity_id": 81,
+          "start": 4,
+          "end": 5,
+          "text": "DBD",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "A straightforward biological read-out of metabolic/growth inhibition was chosen for comparison because its no-wash-one-step approach minimizes lab-to-lab variation .",
+      "entities": [
+        {
+          "entity_id": 233,
+          "start": 5,
+          "end": 7,
+          "text": "metabolic/growth inhibition",
+          "type": "G#PhysicalEffect"
+        }
+      ]
+    },
+    {
+      "text": "We offer protocols for testing other plasma sources to ''standardize'' their biological effects by relatively easy means .",
+      "entities": [
+        {
+          "entity_id": 234,
+          "start": 4,
+          "end": 8,
+          "text": "testing other plasma sources",
+          "type": "G#PlasmaApplication"
+        },
+        {
+          "entity_id": 0,
+          "start": 6,
+          "end": 8,
+          "text": "plasma sources",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    },
+    {
+      "text": "In conclusion, we provide a biological response model (IC50 of CT26 colorectal cancer cells) that allows for easy comparison between very different plasma discharges. .",
+      "entities": [
+        {
+          "entity_id": 235,
+          "start": 5,
+          "end": 8,
+          "text": "biological response model",
+          "type": "G#Modelling"
+        },
+        {
+          "entity_id": 236,
+          "start": 22,
+          "end": 24,
+          "text": "plasma discharges.",
+          "type": "G#PlasmaSource"
+        }
+      ]
+    }
+  ]
+}

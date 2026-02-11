@@ -1,0 +1,18 @@
+{
+    "G#PlasmaSource": "Plasma Source",
+    "G#PlasmaMedium": "Medium",
+    "G#PlasmaTarget": "Target",
+    "G#PlasmaApplication": "Application Field",
+    "G#PlasmaProperties": "Property",
+    "G#ElectrodeMaterial": "Material Substance",
+    "G#ElectrodeConfiguration": "Configuration",
+    "G#PowerSupply": "QualitativeDescriptor",
+    "G#Modelling": "Method",
+    "G#Experiment": "Diagnostic Method",
+    "G#DiagnosticDevice": "Diagnostic Device",
+    "G#DischargeRegime": "Discharge Regime",
+    "G#PhysicalQuantity": "Quantity",
+    "G#Unit": "Unit",
+    "G#PhysicalEffect": "Physical Effect",
+    "G#Species": "Material Substance"
+}

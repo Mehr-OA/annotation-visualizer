@@ -1,0 +1,9 @@
+trainedmodel
+papers
+examples
+annotation_visualizer.html
+requirements.txt
+triples_json_structure.json
+inference.py
+KG_visualizer.html
+json_parser.py

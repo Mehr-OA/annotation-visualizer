@@ -1,0 +1,664 @@
+{
+  "triples": [
+    {
+      "triple_id": 0,
+      "subject": "argon plasma jet; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "argon; Medium"
+    },
+    {
+      "triple_id": 1,
+      "subject": "argon plasma jet,; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "argon; Medium"
+    },
+    {
+      "triple_id": 2,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "argon; Medium"
+    },
+    {
+      "triple_id": 3,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "argon gas; Medium"
+    },
+    {
+      "triple_id": 4,
+      "subject": "argon plasma jet; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 5,
+      "subject": "argon plasma jet,; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 6,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 7,
+      "subject": "DBD; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 8,
+      "subject": "DBD,; Material Substance",
+      "predicate": "treatedBy",
+      "object": "DBD; Plasma Source"
+    },
+    {
+      "triple_id": 9,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 10,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "treats",
+      "object": "skin cells; Material Substance"
+    },
+    {
+      "triple_id": 11,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "treats",
+      "object": "immune cells; Material Substance"
+    },
+    {
+      "triple_id": 12,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cells; Material Substance"
+    },
+    {
+      "triple_id": 13,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "wound healing; Application Field"
+    },
+    {
+      "triple_id": 14,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "cancer; Application Field"
+    },
+    {
+      "triple_id": 15,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "Plasma medicine; Application Field"
+    },
+    {
+      "triple_id": 16,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "cancer; Application Field"
+    },
+    {
+      "triple_id": 17,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "wound healing; Application Field"
+    },
+    {
+      "triple_id": 18,
+      "subject": "DBD; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "cancer; Application Field"
+    },
+    {
+      "triple_id": 19,
+      "subject": "argon plasma jet; Plasma Source",
+      "predicate": "hasProperty",
+      "object": "Atmospheric pressure; Property"
+    },
+    {
+      "triple_id": 20,
+      "subject": "argon plasma jet; Plasma Source",
+      "predicate": "hasProperty",
+      "object": "atmospheric pressure; Property"
+    },
+    {
+      "triple_id": 21,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "hasProperty",
+      "object": "Atmospheric pressure; Property"
+    },
+    {
+      "triple_id": 22,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "hydrogen peroxide; Material Substance"
+    },
+    {
+      "triple_id": 23,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "H 2 O 2; Material Substance"
+    },
+    {
+      "triple_id": 24,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "nitrite,; Material Substance"
+    },
+    {
+      "triple_id": 25,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "nitrate,; Material Substance"
+    },
+    {
+      "triple_id": 26,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "superoxide,; Material Substance"
+    },
+    {
+      "triple_id": 27,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "hydroxyl radical,; Material Substance"
+    },
+    {
+      "triple_id": 28,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "peroxynitrite,; Material Substance"
+    },
+    {
+      "triple_id": 29,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "hypochlorous acid; Material Substance"
+    },
+    {
+      "triple_id": 30,
+      "subject": "total energy input; Quantity",
+      "predicate": "hasUnit",
+      "object": "mJ; Unit"
+    },
+    {
+      "triple_id": 31,
+      "subject": "energy input; Quantity",
+      "predicate": "hasUnit",
+      "object": "mJ; Unit"
+    },
+    {
+      "triple_id": 32,
+      "subject": "energy; Quantity",
+      "predicate": "hasUnit",
+      "object": "mJ; Unit"
+    },
+    {
+      "triple_id": 33,
+      "subject": "frequency; Quantity",
+      "predicate": "hasUnit",
+      "object": "MHz; Unit"
+    },
+    {
+      "triple_id": 34,
+      "subject": "time; Quantity",
+      "predicate": "hasUnit",
+      "object": "s; Unit"
+    },
+    {
+      "triple_id": 35,
+      "subject": "time,; Quantity",
+      "predicate": "hasUnit",
+      "object": "s,; Unit"
+    },
+    {
+      "triple_id": 36,
+      "subject": "wavelength; Quantity",
+      "predicate": "hasUnit",
+      "object": "nanometers; Unit"
+    },
+    {
+      "triple_id": 37,
+      "subject": "diameter; Quantity",
+      "predicate": "hasUnit",
+      "object": "mm; Unit"
+    },
+    {
+      "triple_id": 38,
+      "subject": "inhibitory concentration; Quantity",
+      "predicate": "hasUnit",
+      "object": "lM; Unit"
+    },
+    {
+      "triple_id": 39,
+      "subject": "volume; Quantity",
+      "predicate": "hasUnit",
+      "object": "ml; Unit"
+    },
+    {
+      "triple_id": 40,
+      "subject": "volume; Quantity",
+      "predicate": "hasUnit",
+      "object": "ll; Unit"
+    },
+    {
+      "triple_id": 41,
+      "subject": "DBD; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "gases; Medium"
+    },
+    {
+      "triple_id": 42,
+      "subject": "plasma jet; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "argon; Medium"
+    },
+    {
+      "triple_id": 43,
+      "subject": "plasma jet,; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "argon; Medium"
+    },
+    {
+      "triple_id": 44,
+      "subject": "helium/oxygen plasma jet,; Plasma Source",
+      "predicate": "usesMaterialEntity",
+      "object": "helium/oxygen; Material Substance"
+    },
+    {
+      "triple_id": 45,
+      "subject": "oxidants; Material Substance",
+      "predicate": "consistsOf",
+      "object": "hydrogen peroxide; Material Substance"
+    },
+    {
+      "triple_id": 46,
+      "subject": "oxidants; Material Substance",
+      "predicate": "consistsOf",
+      "object": "hypochlorous acid; Material Substance"
+    },
+    {
+      "triple_id": 47,
+      "subject": "oxidants; Material Substance",
+      "predicate": "consistsOf",
+      "object": "peroxynitrite; Material Substance"
+    },
+    {
+      "triple_id": 48,
+      "subject": "oxidants,; Material Substance",
+      "predicate": "consistsOf",
+      "object": "hydrogen peroxide; Material Substance"
+    },
+    {
+      "triple_id": 49,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "hydrogen; Material Substance"
+    },
+    {
+      "triple_id": 50,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "oxygen; Material Substance"
+    },
+    {
+      "triple_id": 51,
+      "subject": "reactive species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "peroxide; Material Substance"
+    },
+    {
+      "triple_id": 52,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "treats",
+      "object": "target cells; Material Substance"
+    },
+    {
+      "triple_id": 53,
+      "subject": "DBD; Plasma Source",
+      "predicate": "treats",
+      "object": "target cells; Material Substance"
+    },
+    {
+      "triple_id": 54,
+      "subject": "argon plasma jet; Plasma Source",
+      "predicate": "treats",
+      "object": "target cells; Material Substance"
+    },
+    {
+      "triple_id": 55,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "plasma applications; Application Field"
+    },
+    {
+      "triple_id": 56,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "plasma applications; Application Field"
+    },
+    {
+      "triple_id": 57,
+      "subject": "DBD; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "plasma applications; Application Field"
+    },
+    {
+      "triple_id": 58,
+      "subject": "argon plasma jet; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "plasma applications; Application Field"
+    },
+    {
+      "triple_id": 59,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "direct plasma applications,; Application Field"
+    },
+    {
+      "triple_id": 60,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "water; Medium"
+    },
+    {
+      "triple_id": 61,
+      "subject": "jet plasma; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "argon; Material Substance"
+    },
+    {
+      "triple_id": 62,
+      "subject": "jet plasmas,; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "argon; Material Substance"
+    },
+    {
+      "triple_id": 63,
+      "subject": "jet and DBD plasma sources; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 64,
+      "subject": "jet and DBD plasma sources; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "cancer; Application Field"
+    },
+    {
+      "triple_id": 65,
+      "subject": "DBD plasma sources; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 66,
+      "subject": "DBD plasma sources; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "cancer; Application Field"
+    },
+    {
+      "triple_id": 67,
+      "subject": "DBD; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "Plasma medicine; Application Field"
+    },
+    {
+      "triple_id": 68,
+      "subject": "argon plasma jet; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "Plasma medicine; Application Field"
+    },
+    {
+      "triple_id": 69,
+      "subject": "plasma active components; Plasma Source",
+      "predicate": "consistsOf",
+      "object": "UV-radiation; Material Substance"
+    },
+    {
+      "triple_id": 70,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "hasProperty",
+      "object": "cold plasmas; Property"
+    },
+    {
+      "triple_id": 71,
+      "subject": "DBD; Plasma Source",
+      "predicate": "hasProperty",
+      "object": "cold plasmas; Property"
+    },
+    {
+      "triple_id": 72,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "hasProperty",
+      "object": "cold plasmas; Property"
+    },
+    {
+      "triple_id": 73,
+      "subject": "short-lived species; Material Substance",
+      "predicate": "partOf",
+      "object": "reactive species; Material Substance"
+    },
+    {
+      "triple_id": 74,
+      "subject": "toxic species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "peroxynitrite; Material Substance"
+    },
+    {
+      "triple_id": 75,
+      "subject": "toxic species; Material Substance",
+      "predicate": "consistsOf",
+      "object": "hydroxyl radicals,; Material Substance"
+    },
+    {
+      "triple_id": 76,
+      "subject": "radicals,; Material Substance",
+      "predicate": "partOf",
+      "object": "reactive species; Material Substance"
+    },
+    {
+      "triple_id": 77,
+      "subject": "hydroxyl radicals,; Material Substance",
+      "predicate": "partOf",
+      "object": "reactive species; Material Substance"
+    },
+    {
+      "triple_id": 78,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "feed gas; Medium"
+    },
+    {
+      "triple_id": 79,
+      "subject": "DBD; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "feed gas; Medium"
+    },
+    {
+      "triple_id": 80,
+      "subject": "argon plasma jet; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "feed gas; Medium"
+    },
+    {
+      "triple_id": 81,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "external feed gas; Medium"
+    },
+    {
+      "triple_id": 82,
+      "subject": "DBD; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "external feed gas; Medium"
+    },
+    {
+      "triple_id": 83,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "feed gas-even; Medium"
+    },
+    {
+      "triple_id": 84,
+      "subject": "plasma-treated liquids; Medium",
+      "predicate": "consistsOf",
+      "object": "nitrite; Material Substance"
+    },
+    {
+      "triple_id": 85,
+      "subject": "plasma-treated liquids; Medium",
+      "predicate": "consistsOf",
+      "object": "nitrate,; Material Substance"
+    },
+    {
+      "triple_id": 86,
+      "subject": "plasma-treated liquids; Medium",
+      "predicate": "consistsOf",
+      "object": "hydrogen peroxide; Material Substance"
+    },
+    {
+      "triple_id": 87,
+      "subject": "kINPen plasma jet,; Plasma Source",
+      "predicate": "usesMedium",
+      "object": "argon; Medium"
+    },
+    {
+      "triple_id": 88,
+      "subject": "kINPen plasma jet,; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 89,
+      "subject": "kINPen plasma jet,; Plasma Source",
+      "predicate": "hasProperty",
+      "object": "Atmospheric pressure; Property"
+    },
+    {
+      "triple_id": 90,
+      "subject": "dielectric barrier discharge,; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "cancer; Application Field"
+    },
+    {
+      "triple_id": 91,
+      "subject": "dielectric barrier discharge,; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 92,
+      "subject": "floating-electrode dielectric barriers discharge; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 93,
+      "subject": "dielectric barriers discharge; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 94,
+      "subject": "DBD-like jet,; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 95,
+      "subject": "kINPen; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "medical applications; Application Field"
+    },
+    {
+      "triple_id": 96,
+      "subject": "DBD; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "medical applications; Application Field"
+    },
+    {
+      "triple_id": 97,
+      "subject": "argon plasma jet; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "medical applications; Application Field"
+    },
+    {
+      "triple_id": 98,
+      "subject": "plasma sources; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "medical applications; Application Field"
+    },
+    {
+      "triple_id": 99,
+      "subject": "plasma discharges.; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "medical applications; Application Field"
+    },
+    {
+      "triple_id": 100,
+      "subject": "DBDs; Plasma Source",
+      "predicate": "hasApplicationField",
+      "object": "medical applications; Application Field"
+    },
+    {
+      "triple_id": 101,
+      "subject": "IC50; Plasma Source",
+      "predicate": "treats",
+      "object": "cancer cell; Material Substance"
+    },
+    {
+      "triple_id": 102,
+      "subject": "IC50 H 2 O 2; Medium",
+      "predicate": "consistsOf",
+      "object": "H 2 O 2; Material Substance"
+    },
+    {
+      "triple_id": 103,
+      "subject": "humidified atmosphere; Medium",
+      "predicate": "consistsOf",
+      "object": "carbon dioxide; Material Substance"
+    },
+    {
+      "triple_id": 104,
+      "subject": "humidified atmosphere; Medium",
+      "predicate": "consistsOf",
+      "object": "CO 2; Material Substance"
+    },
+    {
+      "triple_id": 105,
+      "subject": "cell culture medium; Diagnostic Device",
+      "predicate": "consistsOf",
+      "object": "glutamine,; Material Substance"
+    },
+    {
+      "triple_id": 106,
+      "subject": "cell culture medium; Diagnostic Device",
+      "predicate": "consistsOf",
+      "object": "penicillin/streptomycin; Material Substance"
+    },
+    {
+      "triple_id": 107,
+      "subject": "cell culture medium; Diagnostic Device",
+      "predicate": "consistsOf",
+      "object": "(FCS), 2%; Material Substance"
+    },
+    {
+      "triple_id": 108,
+      "subject": "O 2 Deposition; Material Substance",
+      "predicate": "partOf",
+      "object": "reactive species; Material Substance"
+    },
+    {
+      "triple_id": 109,
+      "subject": "inhibitory concentration; Quantity",
+      "predicate": "hasUnit",
+      "object": "(IC50); Unit"
+    }
+  ]
+}

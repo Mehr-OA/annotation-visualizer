@@ -1,0 +1,904 @@
+{
+    "triples": [
+        {
+            "triple_id": 0,
+            "subject": "Advanced fluid modeling; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 1,
+            "subject": "PIC/MCC simulations; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 2,
+            "subject": "ccrf discharges; Plasma Source",
+            "predicate": "hasApplicationField",
+            "object": "plasma processing; Application Field"
+        },
+        {
+            "triple_id": 3,
+            "subject": "ccrf discharges; Plasma Source",
+            "predicate": "hasApplicationField",
+            "object": "plasma-enhanced chemical vapor deposition; Application Field"
+        },
+        {
+            "triple_id": 4,
+            "subject": "ccrf discharges; Plasma Source",
+            "predicate": "hasApplicationField",
+            "object": "plasma etching; Application Field"
+        },
+        {
+            "triple_id": 5,
+            "subject": "PIC/MCC method,; Method",
+            "predicate": "measures",
+            "object": "space charge field; Quantity"
+        },
+        {
+            "triple_id": 6,
+            "subject": "capacitively coupled CF 4 discharges:; Plasma Source",
+            "predicate": "usesMedium",
+            "object": "CF 4; Material Substance"
+        },
+        {
+            "triple_id": 7,
+            "subject": "glow discharge; Plasma Source",
+            "predicate": "usesMedium",
+            "object": "nitrogen; Material Substance"
+        },
+        {
+            "triple_id": 8,
+            "subject": "glow discharge; Plasma Source",
+            "predicate": "hasProperty",
+            "object": "sub-atmospheric pressure; Property"
+        },
+        {
+            "triple_id": 9,
+            "subject": "fluid description; Method",
+            "predicate": "usedToDiagnose",
+            "object": "electrons; Material Substance"
+        },
+        {
+            "triple_id": 10,
+            "subject": "fluid models; Method",
+            "predicate": "measures",
+            "object": "collisionless electron heat flux; Quantity"
+        },
+        {
+            "triple_id": 11,
+            "subject": "LMEA based drift-diffusion approximation; Method",
+            "predicate": "usedToDiagnose",
+            "object": "dc glow discharge; Plasma Source"
+        },
+        {
+            "triple_id": 12,
+            "subject": "dc glow discharge; Plasma Source",
+            "predicate": "hasProperty",
+            "object": "low and atmospheric pressure; Property"
+        },
+        {
+            "triple_id": 13,
+            "subject": "fluid and particle methods; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 14,
+            "subject": "ccrf discharges; Plasma Source",
+            "predicate": "usesMedium",
+            "object": "helium; Material Substance"
+        },
+        {
+            "triple_id": 15,
+            "subject": "ccrf discharges; Plasma Source",
+            "predicate": "usesMedium",
+            "object": "argon; Material Substance"
+        },
+        {
+            "triple_id": 16,
+            "subject": "ccrf discharges; Plasma Source",
+            "predicate": "hasProperty",
+            "object": "plasma properties; Property"
+        },
+        {
+            "triple_id": 17,
+            "subject": "PIC/MCC simulation; Method",
+            "predicate": "measures",
+            "object": "rf voltage; Quantity"
+        },
+        {
+            "triple_id": 18,
+            "subject": "PIC/MCC simulation; Method",
+            "predicate": "measures",
+            "object": "plasma density; Quantity"
+        },
+        {
+            "triple_id": 19,
+            "subject": "PIC/MCC simulation; Method",
+            "predicate": "measures",
+            "object": "ion flux; Quantity"
+        },
+        {
+            "triple_id": 20,
+            "subject": "LMEA based fluid model; Method",
+            "predicate": "measures",
+            "object": "plasma density; Quantity"
+        },
+        {
+            "triple_id": 21,
+            "subject": "convective term; Method",
+            "predicate": "partOf",
+            "object": "momentum balance equation; Method"
+        },
+        {
+            "triple_id": 22,
+            "subject": "momentum balance equation; Method",
+            "predicate": "partOf",
+            "object": "fluid model equations; Method"
+        },
+        {
+            "triple_id": 23,
+            "subject": "momentum balance equation; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ions; Material Substance"
+        },
+        {
+            "triple_id": 24,
+            "subject": "fluid modeling approach; Method",
+            "predicate": "measures",
+            "object": "electron energy; Quantity"
+        },
+        {
+            "triple_id": 25,
+            "subject": "ccrf discharges; Plasma Source",
+            "predicate": "hasProperty",
+            "object": "lowpressure; Property"
+        },
+        {
+            "triple_id": 26,
+            "subject": "time-dependent two-moment model; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ions; Material Substance"
+        },
+        {
+            "triple_id": 27,
+            "subject": "continuity equation; Method",
+            "predicate": "partOf",
+            "object": "time-dependent two-moment model; Method"
+        },
+        {
+            "triple_id": 28,
+            "subject": "balance equations; Method",
+            "predicate": "usedToDiagnose",
+            "object": "electrons; Material Substance"
+        },
+        {
+            "triple_id": 29,
+            "subject": "balance equations; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ions; Material Substance"
+        },
+        {
+            "triple_id": 30,
+            "subject": "Poisson equation; Method",
+            "predicate": "measures",
+            "object": "electric potential; Quantity"
+        },
+        {
+            "triple_id": 31,
+            "subject": "Poisson equation; Method",
+            "predicate": "measures",
+            "object": "ion and electron densities,; Quantity"
+        },
+        {
+            "triple_id": 32,
+            "subject": "fluid model equations; Method",
+            "predicate": "consistsOf",
+            "object": "Poisson equation; Method"
+        },
+        {
+            "triple_id": 33,
+            "subject": "fluid model equations; Method",
+            "predicate": "consistsOf",
+            "object": "balance equations; Method"
+        },
+        {
+            "triple_id": 34,
+            "subject": "PIC/ MCC simulation codes; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 35,
+            "subject": "PIC/MCC simulation procedures; Diagnostic Method",
+            "predicate": "measures",
+            "object": "particle density; Quantity"
+        },
+        {
+            "triple_id": 36,
+            "subject": "PIC/MCC simulation procedures; Diagnostic Method",
+            "predicate": "measures",
+            "object": "energy density; Quantity"
+        },
+        {
+            "triple_id": 37,
+            "subject": "coupled balance equations; Method",
+            "predicate": "measures",
+            "object": "particle flux; Quantity"
+        },
+        {
+            "triple_id": 38,
+            "subject": "coupled balance equations; Method",
+            "predicate": "measures",
+            "object": "energy flux; Quantity"
+        },
+        {
+            "triple_id": 39,
+            "subject": "fluid models; Method",
+            "predicate": "measures",
+            "object": "energy flux dissipation frequencies; Quantity"
+        },
+        {
+            "triple_id": 40,
+            "subject": "fluid models; Method",
+            "predicate": "measures",
+            "object": "transport coefficients; Quantity"
+        },
+        {
+            "triple_id": 41,
+            "subject": "source term; Method",
+            "predicate": "partOf",
+            "object": "fluid model equations; Method"
+        },
+        {
+            "triple_id": 42,
+            "subject": "fluid models; Method",
+            "predicate": "measures",
+            "object": "rate coefficients; Quantity"
+        },
+        {
+            "triple_id": 43,
+            "subject": "JILA database; Diagnostic Method",
+            "predicate": "measures",
+            "object": "collision cross sections; Quantity"
+        },
+        {
+            "triple_id": 44,
+            "subject": "LMEA based drift-diffusion approximation; Method",
+            "predicate": "measures",
+            "object": "particle and energy fluxes; Quantity"
+        },
+        {
+            "triple_id": 45,
+            "subject": "LMEA based drift-diffusion approximation; Method",
+            "predicate": "measures",
+            "object": "particle and energy diffusion coefficients; Quantity"
+        },
+        {
+            "triple_id": 46,
+            "subject": "time-dependent momentum balance equation; Method",
+            "predicate": "measures",
+            "object": "mean velocity; Quantity"
+        },
+        {
+            "triple_id": 47,
+            "subject": "time-dependent momentum balance equation; Method",
+            "predicate": "measures",
+            "object": "discharge current density; Quantity"
+        },
+        {
+            "triple_id": 48,
+            "subject": "electron energy balance equation; Method",
+            "predicate": "partOf",
+            "object": "fluid model equations; Method"
+        },
+        {
+            "triple_id": 49,
+            "subject": "Poisson's equation; Method",
+            "predicate": "measures",
+            "object": "electric potential; Quantity"
+        },
+        {
+            "triple_id": 50,
+            "subject": "parabolic driftdiffusion equations; Method",
+            "predicate": "measures",
+            "object": "particle density; Quantity"
+        },
+        {
+            "triple_id": 51,
+            "subject": "hyperbolic system of moment equations; Method",
+            "predicate": "measures",
+            "object": "flux of ions; Quantity"
+        },
+        {
+            "triple_id": 52,
+            "subject": "hyperbolic system of moment equations; Method",
+            "predicate": "measures",
+            "object": "density; Quantity"
+        },
+        {
+            "triple_id": 53,
+            "subject": "fluid modeling approaches; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 54,
+            "subject": "PIC/ MCC simulations; Method",
+            "predicate": "measures",
+            "object": "self-consistent electric field; Quantity"
+        },
+        {
+            "triple_id": 55,
+            "subject": "cloud-in-cell scheme,; Method",
+            "predicate": "partOf",
+            "object": "PIC/ MCC simulations; Method"
+        },
+        {
+            "triple_id": 56,
+            "subject": "leapfrog method; Method",
+            "predicate": "partOf",
+            "object": "PIC/ MCC simulations; Method"
+        },
+        {
+            "triple_id": 57,
+            "subject": "nullcollision method; Method",
+            "predicate": "partOf",
+            "object": "PIC/ MCC simulations; Method"
+        },
+        {
+            "triple_id": 58,
+            "subject": "eight-term approximation; Method",
+            "predicate": "partOf",
+            "object": "electron Boltzmann equation; Method"
+        },
+        {
+            "triple_id": 59,
+            "subject": "electron Boltzmann equation; Method",
+            "predicate": "measures",
+            "object": "transport coefficients; Quantity"
+        },
+        {
+            "triple_id": 60,
+            "subject": "electron Boltzmann equation; Method",
+            "predicate": "measures",
+            "object": "rate coefficients; Quantity"
+        },
+        {
+            "triple_id": 61,
+            "subject": "measured data; Diagnostic Method",
+            "predicate": "measures",
+            "object": "ion mobility; Quantity"
+        },
+        {
+            "triple_id": 62,
+            "subject": "PIC/MCC simulation results; Method",
+            "predicate": "measures",
+            "object": "energies; Quantity"
+        },
+        {
+            "triple_id": 63,
+            "subject": "PIC/MCC simulation results; Method",
+            "predicate": "measures",
+            "object": "rf periods; Quantity"
+        },
+        {
+            "triple_id": 64,
+            "subject": "Fluid and PIC/MCC calculations; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 65,
+            "subject": "Fluid and PIC/MCC calculations; Method",
+            "predicate": "measures",
+            "object": "discharge current; Quantity"
+        },
+        {
+            "triple_id": 66,
+            "subject": "spatiotemporal behavior; Property",
+            "predicate": "propertyOf",
+            "object": "electron and ion densities; Quantity"
+        },
+        {
+            "triple_id": 67,
+            "subject": "PIC/MCC simulations; Method",
+            "predicate": "measures",
+            "object": "ion (b) cross sections; Quantity"
+        },
+        {
+            "triple_id": 68,
+            "subject": "gas temperature; Quantity",
+            "predicate": "propertyOf",
+            "object": "helium; Medium"
+        },
+        {
+            "triple_id": 69,
+            "subject": "voltage amplitude; Quantity",
+            "predicate": "propertyOf",
+            "object": "sinusoidal voltage; QualitativeDescriptor"
+        },
+        {
+            "triple_id": 70,
+            "subject": "PIC/MCC simulations; Method",
+            "predicate": "measures",
+            "object": "density of fast electrons; Quantity"
+        },
+        {
+            "triple_id": 71,
+            "subject": "kinetic PIC/MCC simulations; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 72,
+            "subject": "DDAn model; Method",
+            "predicate": "measures",
+            "object": "time averaged ion density; Quantity"
+        },
+        {
+            "triple_id": 73,
+            "subject": "fluid results; Method",
+            "predicate": "measures",
+            "object": "time averaged ion density; Quantity"
+        },
+        {
+            "triple_id": 74,
+            "subject": "DDAn model; Method",
+            "predicate": "measures",
+            "object": "electron and ion fluxes; Quantity"
+        },
+        {
+            "triple_id": 75,
+            "subject": "classical fluid models; Method",
+            "predicate": "measures",
+            "object": "electron and ion fluxes; Quantity"
+        },
+        {
+            "triple_id": 76,
+            "subject": "DDAn; Plasma Source",
+            "predicate": "usesMedium",
+            "object": "argon,; Medium"
+        },
+        {
+            "triple_id": 77,
+            "subject": "classical fluid models; Method",
+            "predicate": "measures",
+            "object": "plasma parameters; Property"
+        },
+        {
+            "triple_id": 78,
+            "subject": "fluid models,; Method",
+            "predicate": "measures",
+            "object": "energy flux of electrons; Quantity"
+        },
+        {
+            "triple_id": 79,
+            "subject": "fluid models,; Method",
+            "predicate": "measures",
+            "object": "ionization rate; Quantity"
+        },
+        {
+            "triple_id": 80,
+            "subject": "fluid models,; Method",
+            "predicate": "measures",
+            "object": "electron heating rate,; Quantity"
+        },
+        {
+            "triple_id": 81,
+            "subject": "PIC/MCC data; Diagnostic Method",
+            "predicate": "measures",
+            "object": "density of these fast electrons; Quantity"
+        },
+        {
+            "triple_id": 82,
+            "subject": "fluid models,; Method",
+            "predicate": "measures",
+            "object": "ionization rate coefficient; Quantity"
+        },
+        {
+            "triple_id": 83,
+            "subject": "DDAn approach; Method",
+            "predicate": "measures",
+            "object": "spatial profiles of the electric field; Quantity"
+        },
+        {
+            "triple_id": 84,
+            "subject": "classical model; Method",
+            "predicate": "measures",
+            "object": "spatial profiles of the electric field; Quantity"
+        },
+        {
+            "triple_id": 85,
+            "subject": "DDAn approach; Method",
+            "predicate": "measures",
+            "object": "electron heating rate; Quantity"
+        },
+        {
+            "triple_id": 86,
+            "subject": "DDAn approach; Method",
+            "predicate": "measures",
+            "object": "electron particle and energy fluxes; Quantity"
+        },
+        {
+            "triple_id": 87,
+            "subject": "Monte Carlo collision method; Method",
+            "predicate": "usedToDiagnose",
+            "object": "energetic electrons; Material Substance"
+        },
+        {
+            "triple_id": 88,
+            "subject": "time-dependent particle and momentum balance equations; Method",
+            "predicate": "measures",
+            "object": "plasma density; Quantity"
+        },
+        {
+            "triple_id": 89,
+            "subject": "DDAn model; Method",
+            "predicate": "measures",
+            "object": "plasma density; Quantity"
+        },
+        {
+            "triple_id": 90,
+            "subject": "DDA53 approach; Method",
+            "predicate": "measures",
+            "object": "plasma density; Quantity"
+        },
+        {
+            "triple_id": 91,
+            "subject": "argon,; Material Substance",
+            "predicate": "usedIn",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 92,
+            "subject": "ccrf discharges; Plasma Source",
+            "predicate": "hasProperty",
+            "object": "low pressure; Property"
+        },
+        {
+            "triple_id": 93,
+            "subject": "DDAn approach; Method",
+            "predicate": "measures",
+            "object": "electron energy transport; Quantity"
+        },
+        {
+            "triple_id": 94,
+            "subject": "DDA53 approach; Method",
+            "predicate": "measures",
+            "object": "electron energy transport; Quantity"
+        },
+        {
+            "triple_id": 95,
+            "subject": "fluid modeling framework; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 96,
+            "subject": "energy flux; Quantity",
+            "predicate": "measuredUsing",
+            "object": "DDAn approach; Method"
+        },
+        {
+            "triple_id": 97,
+            "subject": "mean electron energy; Quantity",
+            "predicate": "measuredUsing",
+            "object": "fluid models; Method"
+        },
+        {
+            "triple_id": 98,
+            "subject": "effective electric field; Quantity",
+            "predicate": "measuredUsing",
+            "object": "fluid models; Method"
+        },
+        {
+            "triple_id": 99,
+            "subject": "time-dependent momentum balance equation; Method",
+            "predicate": "measures",
+            "object": "mean velocity; Quantity"
+        },
+        {
+            "triple_id": 100,
+            "subject": "time-dependent momentum balance equation; Method",
+            "predicate": "measures",
+            "object": "discharge current density; Quantity"
+        },
+        {
+            "triple_id": 101,
+            "subject": "electron energy balance equation; Method",
+            "predicate": "partOf",
+            "object": "fluid model equations; Method"
+        },
+        {
+            "triple_id": 102,
+            "subject": "Poisson's equation; Method",
+            "predicate": "measures",
+            "object": "electric potential; Quantity"
+        },
+        {
+            "triple_id": 103,
+            "subject": "parabolic driftdiffusion equations; Method",
+            "predicate": "measures",
+            "object": "particle density; Quantity"
+        },
+        {
+            "triple_id": 104,
+            "subject": "hyperbolic system of moment equations; Method",
+            "predicate": "measures",
+            "object": "flux of ions; Quantity"
+        },
+        {
+            "triple_id": 105,
+            "subject": "hyperbolic system of moment equations; Method",
+            "predicate": "measures",
+            "object": "density; Quantity"
+        },
+        {
+            "triple_id": 106,
+            "subject": "fluid modeling approaches; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 107,
+            "subject": "PIC/ MCC simulations; Method",
+            "predicate": "measures",
+            "object": "self-consistent electric field; Quantity"
+        },
+        {
+            "triple_id": 108,
+            "subject": "cloud-in-cell scheme,; Method",
+            "predicate": "partOf",
+            "object": "PIC/ MCC simulations; Method"
+        },
+        {
+            "triple_id": 109,
+            "subject": "leapfrog method; Method",
+            "predicate": "partOf",
+            "object": "PIC/ MCC simulations; Method"
+        },
+        {
+            "triple_id": 110,
+            "subject": "nullcollision method; Method",
+            "predicate": "partOf",
+            "object": "PIC/ MCC simulations; Method"
+        },
+        {
+            "triple_id": 111,
+            "subject": "eight-term approximation; Method",
+            "predicate": "partOf",
+            "object": "electron Boltzmann equation; Method"
+        },
+        {
+            "triple_id": 112,
+            "subject": "electron Boltzmann equation; Method",
+            "predicate": "measures",
+            "object": "transport coefficients; Quantity"
+        },
+        {
+            "triple_id": 113,
+            "subject": "electron Boltzmann equation; Method",
+            "predicate": "measures",
+            "object": "rate coefficients; Quantity"
+        },
+        {
+            "triple_id": 114,
+            "subject": "measured data; Diagnostic Method",
+            "predicate": "measures",
+            "object": "ion mobility; Quantity"
+        },
+        {
+            "triple_id": 115,
+            "subject": "PIC/MCC simulation results; Method",
+            "predicate": "measures",
+            "object": "energies; Quantity"
+        },
+        {
+            "triple_id": 116,
+            "subject": "PIC/MCC simulation results; Method",
+            "predicate": "measures",
+            "object": "rf periods; Quantity"
+        },
+        {
+            "triple_id": 117,
+            "subject": "Fluid and PIC/MCC calculations; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 118,
+            "subject": "Fluid and PIC/MCC calculations; Method",
+            "predicate": "measures",
+            "object": "discharge current; Quantity"
+        },
+        {
+            "triple_id": 119,
+            "subject": "spatiotemporal behavior; Property",
+            "predicate": "propertyOf",
+            "object": "electron and ion densities; Quantity"
+        },
+        {
+            "triple_id": 120,
+            "subject": "PIC/MCC simulations; Method",
+            "predicate": "measures",
+            "object": "ion (b) cross sections; Quantity"
+        },
+        {
+            "triple_id": 121,
+            "subject": "gas temperature; Quantity",
+            "predicate": "propertyOf",
+            "object": "helium; Medium"
+        },
+        {
+            "triple_id": 122,
+            "subject": "voltage amplitude; Quantity",
+            "predicate": "propertyOf",
+            "object": "sinusoidal voltage; QualitativeDescriptor"
+        },
+        {
+            "triple_id": 123,
+            "subject": "PIC/MCC simulations; Method",
+            "predicate": "measures",
+            "object": "density of fast electrons; Quantity"
+        },
+        {
+            "triple_id": 124,
+            "subject": "kinetic PIC/MCC simulations; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 125,
+            "subject": "DDAn model; Method",
+            "predicate": "measures",
+            "object": "time averaged ion density; Quantity"
+        },
+        {
+            "triple_id": 126,
+            "subject": "fluid results; Method",
+            "predicate": "measures",
+            "object": "time averaged ion density; Quantity"
+        },
+        {
+            "triple_id": 127,
+            "subject": "DDAn model; Method",
+            "predicate": "measures",
+            "object": "electron and ion fluxes; Quantity"
+        },
+        {
+            "triple_id": 128,
+            "subject": "classical fluid models; Method",
+            "predicate": "measures",
+            "object": "electron and ion fluxes; Quantity"
+        },
+        {
+            "triple_id": 129,
+            "subject": "DDAn; Plasma Source",
+            "predicate": "usesMedium",
+            "object": "argon,; Medium"
+        },
+        {
+            "triple_id": 130,
+            "subject": "classical fluid models; Method",
+            "predicate": "measures",
+            "object": "plasma parameters; Property"
+        },
+        {
+            "triple_id": 131,
+            "subject": "fluid models,; Method",
+            "predicate": "measures",
+            "object": "energy flux of electrons; Quantity"
+        },
+        {
+            "triple_id": 132,
+            "subject": "fluid models,; Method",
+            "predicate": "measures",
+            "object": "ionization rate; Quantity"
+        },
+        {
+            "triple_id": 133,
+            "subject": "fluid models,; Method",
+            "predicate": "measures",
+            "object": "electron heating rate,; Quantity"
+        },
+        {
+            "triple_id": 134,
+            "subject": "PIC/MCC data; Diagnostic Method",
+            "predicate": "measures",
+            "object": "density of these fast electrons; Quantity"
+        },
+        {
+            "triple_id": 135,
+            "subject": "fluid models,; Method",
+            "predicate": "measures",
+            "object": "ionization rate coefficient; Quantity"
+        },
+        {
+            "triple_id": 136,
+            "subject": "DDAn approach; Method",
+            "predicate": "measures",
+            "object": "spatial profiles of the electric field; Quantity"
+        },
+        {
+            "triple_id": 137,
+            "subject": "classical model; Method",
+            "predicate": "measures",
+            "object": "spatial profiles of the electric field; Quantity"
+        },
+        {
+            "triple_id": 138,
+            "subject": "DDAn approach; Method",
+            "predicate": "measures",
+            "object": "electron heating rate; Quantity"
+        },
+        {
+            "triple_id": 139,
+            "subject": "DDAn approach; Method",
+            "predicate": "measures",
+            "object": "electron particle and energy fluxes; Quantity"
+        },
+        {
+            "triple_id": 140,
+            "subject": "Monte Carlo collision method; Method",
+            "predicate": "usedToDiagnose",
+            "object": "energetic electrons; Material Substance"
+        },
+        {
+            "triple_id": 141,
+            "subject": "time-dependent particle and momentum balance equations; Method",
+            "predicate": "measures",
+            "object": "plasma density; Quantity"
+        },
+        {
+            "triple_id": 142,
+            "subject": "DDAn model; Method",
+            "predicate": "measures",
+            "object": "plasma density; Quantity"
+        },
+        {
+            "triple_id": 143,
+            "subject": "DDA53 approach; Method",
+            "predicate": "measures",
+            "object": "plasma density; Quantity"
+        },
+        {
+            "triple_id": 144,
+            "subject": "argon,; Material Substance",
+            "predicate": "usedIn",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 145,
+            "subject": "ccrf discharges; Plasma Source",
+            "predicate": "hasProperty",
+            "object": "low pressure; Property"
+        },
+        {
+            "triple_id": 146,
+            "subject": "DDAn approach; Method",
+            "predicate": "measures",
+            "object": "electron energy transport; Quantity"
+        },
+        {
+            "triple_id": 147,
+            "subject": "DDA53 approach; Method",
+            "predicate": "measures",
+            "object": "electron energy transport; Quantity"
+        },
+        {
+            "triple_id": 148,
+            "subject": "fluid modeling framework; Method",
+            "predicate": "usedToDiagnose",
+            "object": "ccrf discharges; Plasma Source"
+        },
+        {
+            "triple_id": 149,
+            "subject": "DDA53; Plasma Source",
+            "predicate": "hasProperty",
+            "object": "low pressure; Property"
+        }
+    ]
+}

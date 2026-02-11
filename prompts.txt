@@ -1,0 +1,3 @@
+Prompt for triple creation using Gemini 3.0 pro (web version):
+
+"Based on the extracted entities (Becker_2017_Plasma_Sources_Sci._Technol._26_044001_entites_MAPPED.json) and the original text (Becker_2017_Plasma_Sources_Sci._Technol._26_044001.txt) and the ontology (plasma-ontology.ttl), I want you to create the relationships between these entities (the triples) following this structure (triples_json_structure.json). Please STRICTLY follow the ontology (HARD CONSTRAINT), extract as many triples as possible (at least more than 100, if there are fewer than that I want your detailed explanation)!"

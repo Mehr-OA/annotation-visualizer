@@ -1,0 +1,1189 @@
+{
+    "entities": [
+        {
+            "id": 0,
+            "label": "plasma sources",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 1,
+            "label": "dielectric barrier discharge,",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 2,
+            "label": "atmospheric pressure",
+            "class": "Property"
+        },
+        {
+            "id": 3,
+            "label": "argon",
+            "class": "Medium"
+        },
+        {
+            "id": 4,
+            "label": "argon plasma jet,",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 5,
+            "label": "plasma jet,",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 6,
+            "label": "cancer cell",
+            "class": "Material Substance"
+        },
+        {
+            "id": 7,
+            "label": "cytotoxicity assays,",
+            "class": "Application Field"
+        },
+        {
+            "id": 8,
+            "label": "hydrogen peroxide (H 2 O 2)",
+            "class": "Material Substance"
+        },
+        {
+            "id": 9,
+            "label": "(H 2",
+            "class": "Material Substance"
+        },
+        {
+            "id": 10,
+            "label": "O 2)",
+            "class": "Material Substance"
+        },
+        {
+            "id": 11,
+            "label": "inhibitory concentration",
+            "class": "Quantity"
+        },
+        {
+            "id": 12,
+            "label": "(IC50)",
+            "class": "Unit"
+        },
+        {
+            "id": 13,
+            "label": "H 2",
+            "class": "Material Substance"
+        },
+        {
+            "id": 14,
+            "label": "H 2 O 2",
+            "class": "Material Substance"
+        },
+        {
+            "id": 15,
+            "label": "H 2 O 2 deposition",
+            "class": "Application Field"
+        },
+        {
+            "id": 16,
+            "label": "O 2",
+            "class": "Material Substance"
+        },
+        {
+            "id": 17,
+            "label": "deposition",
+            "class": "Application Field"
+        },
+        {
+            "id": 18,
+            "label": "DBD,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 19,
+            "label": "DBD, IC50",
+            "class": "Material Substance"
+        },
+        {
+            "id": 20,
+            "label": "total energy input",
+            "class": "Quantity"
+        },
+        {
+            "id": 21,
+            "label": "pulsing frequency,",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 22,
+            "label": "frequency,",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 23,
+            "label": "time,",
+            "class": "Quantity"
+        },
+        {
+            "id": 24,
+            "label": "liquid",
+            "class": "Material Substance"
+        },
+        {
+            "id": 25,
+            "label": "plasma toxicity",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 26,
+            "label": "peroxide generation",
+            "class": "Application Field"
+        },
+        {
+            "id": 27,
+            "label": "plasma treatment",
+            "class": "Application Field"
+        },
+        {
+            "id": 28,
+            "label": "physical effects",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 29,
+            "label": "predefined cellular response",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 30,
+            "label": "cellular response",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 31,
+            "label": "Atmospheric pressure",
+            "class": "Property"
+        },
+        {
+            "id": 32,
+            "label": "pressure",
+            "class": "Quantity"
+        },
+        {
+            "id": 33,
+            "label": "argon plasma jet",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 34,
+            "label": "plasma jet",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 35,
+            "label": "Dielectric",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 36,
+            "label": "barrier discharge",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 37,
+            "label": "Plasma medicine",
+            "class": "Application Field"
+        },
+        {
+            "id": 38,
+            "label": "plasma medicine,",
+            "class": "Application Field"
+        },
+        {
+            "id": 39,
+            "label": "gases",
+            "class": "Medium"
+        },
+        {
+            "id": 40,
+            "label": "physico-chemical effectors",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 41,
+            "label": "wound healing",
+            "class": "Application Field"
+        },
+        {
+            "id": 42,
+            "label": "cancer",
+            "class": "Application Field"
+        },
+        {
+            "id": 43,
+            "label": "plasma applications",
+            "class": "Application Field"
+        },
+        {
+            "id": 44,
+            "label": "in vivo models",
+            "class": "Method"
+        },
+        {
+            "id": 45,
+            "label": "direct plasma applications,",
+            "class": "Application Field"
+        },
+        {
+            "id": 46,
+            "label": "UV-radiation",
+            "class": "Material Substance"
+        },
+        {
+            "id": 47,
+            "label": "electrical fields",
+            "class": "Quantity"
+        },
+        {
+            "id": 48,
+            "label": "plasma sources,",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 49,
+            "label": "floating-electrode dielectric barriers discharge",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 50,
+            "label": "dielectric barriers discharge",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 51,
+            "label": "cell growth reduction",
+            "class": "Application Field"
+        },
+        {
+            "id": 52,
+            "label": "plasma active components",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 53,
+            "label": "plasma medical research",
+            "class": "Application Field"
+        },
+        {
+            "id": 54,
+            "label": "physical characterization",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 55,
+            "label": "plasma effects",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 56,
+            "label": "clinical device calibration,",
+            "class": "Diagnostic Device"
+        },
+        {
+            "id": 57,
+            "label": "reactive species",
+            "class": "Material Substance"
+        },
+        {
+            "id": 58,
+            "label": "skin cells",
+            "class": "Material Substance"
+        },
+        {
+            "id": 59,
+            "label": "immune cells",
+            "class": "Material Substance"
+        },
+        {
+            "id": 60,
+            "label": "cancer cells",
+            "class": "Material Substance"
+        },
+        {
+            "id": 61,
+            "label": "hydrogen peroxide",
+            "class": "Material Substance"
+        },
+        {
+            "id": 62,
+            "label": "(H 2 O 2",
+            "class": "Material Substance"
+        },
+        {
+            "id": 63,
+            "label": "for example, Fenton reaction",
+            "class": "Material Substance"
+        },
+        {
+            "id": 64,
+            "label": "Fenton reaction",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 65,
+            "label": "oxygenases",
+            "class": "Material Substance"
+        },
+        {
+            "id": 66,
+            "label": "and in redox signaling events enabling the translation of redox events into distinct biological responses",
+            "class": "Diagnostic Device"
+        },
+        {
+            "id": 67,
+            "label": "redox signaling",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 68,
+            "label": "redox signaling events",
+            "class": "Application Field"
+        },
+        {
+            "id": 69,
+            "label": "redox signaling events enabling the",
+            "class": "Quantity"
+        },
+        {
+            "id": 70,
+            "label": "necroptotic cell death pathway",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 71,
+            "label": "DBD",
+            "class": "Material Substance"
+        },
+        {
+            "id": 72,
+            "label": "inhibition of CT26 metabolic activity",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 73,
+            "label": "plasma-induced cell toxicity",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 74,
+            "label": "cell culture medium",
+            "class": "Diagnostic Device"
+        },
+        {
+            "id": 75,
+            "label": "(FCS), 2%",
+            "class": "Material Substance"
+        },
+        {
+            "id": 76,
+            "label": "glutamine,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 77,
+            "label": "penicillin/streptomycin",
+            "class": "Material Substance"
+        },
+        {
+            "id": 78,
+            "label": "culturing",
+            "class": "Application Field"
+        },
+        {
+            "id": 79,
+            "label": "humidified atmosphere",
+            "class": "Medium"
+        },
+        {
+            "id": 80,
+            "label": "carbon dioxide",
+            "class": "Material Substance"
+        },
+        {
+            "id": 81,
+            "label": "DBD",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 82,
+            "label": "diameter",
+            "class": "Quantity"
+        },
+        {
+            "id": 83,
+            "label": "CO 2",
+            "class": "Material Substance"
+        },
+        {
+            "id": 84,
+            "label": "plasma treatment,",
+            "class": "Application Field"
+        },
+        {
+            "id": 85,
+            "label": "PBS,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 86,
+            "label": "PBS",
+            "class": "Target"
+        },
+        {
+            "id": 87,
+            "label": "high voltage pulse",
+            "class": "Quantity"
+        },
+        {
+            "id": 88,
+            "label": "voltage pulse",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 89,
+            "label": "mm",
+            "class": "Unit"
+        },
+        {
+            "id": 90,
+            "label": "nanosecond",
+            "class": "Unit"
+        },
+        {
+            "id": 91,
+            "label": "nanosecond pulser",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 92,
+            "label": "(FPB-20-05NM, FID GmbH, Burbach, Germany)",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 93,
+            "label": "frequency",
+            "class": "Quantity"
+        },
+        {
+            "id": 94,
+            "label": "external function generator",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 95,
+            "label": "(TTi, TG5011 LXT, Philadelphia, PA, USA)",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 96,
+            "label": "s",
+            "class": "Unit"
+        },
+        {
+            "id": 97,
+            "label": "time",
+            "class": "Quantity"
+        },
+        {
+            "id": 98,
+            "label": "pulse frequency",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 99,
+            "label": "energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 100,
+            "label": "times",
+            "class": "Quantity"
+        },
+        {
+            "id": 101,
+            "label": "DBD comparative study,",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 102,
+            "label": "microsecond pulse",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 103,
+            "label": "total plasma energy",
+            "class": "Quantity"
+        },
+        {
+            "id": 104,
+            "label": "viability",
+            "class": "Quantity"
+        },
+        {
+            "id": 105,
+            "label": "nanosecond-and",
+            "class": "Unit"
+        },
+        {
+            "id": 106,
+            "label": "microsecond-pulsed",
+            "class": "Unit"
+        },
+        {
+            "id": 107,
+            "label": "microsecond-pulsed DBD system",
+            "class": "Diagnostic Method"
+        },
+        {
+            "id": 108,
+            "label": "feed gas",
+            "class": "Medium"
+        },
+        {
+            "id": 109,
+            "label": "DBD-like jet,",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 110,
+            "label": "MHz",
+            "class": "Unit"
+        },
+        {
+            "id": 111,
+            "label": "CT26",
+            "class": "Unit"
+        },
+        {
+            "id": 112,
+            "label": "ml",
+            "class": "Unit"
+        },
+        {
+            "id": 113,
+            "label": "(Sigma)",
+            "class": "Material Substance"
+        },
+        {
+            "id": 114,
+            "label": "(CNC, Germany)",
+            "class": "Diagnostic Device"
+        },
+        {
+            "id": 115,
+            "label": "distance",
+            "class": "Quantity"
+        },
+        {
+            "id": 116,
+            "label": "evaporation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 117,
+            "label": "water",
+            "class": "Medium"
+        },
+        {
+            "id": 118,
+            "label": "metabolic activity",
+            "class": "Quantity"
+        },
+        {
+            "id": 119,
+            "label": "h",
+            "class": "Unit"
+        },
+        {
+            "id": 120,
+            "label": "phenol",
+            "class": "Material Substance"
+        },
+        {
+            "id": 121,
+            "label": "lM",
+            "class": "Unit"
+        },
+        {
+            "id": 122,
+            "label": "resazurin",
+            "class": "Material Substance"
+        },
+        {
+            "id": 123,
+            "label": "linear regressions",
+            "class": "Method"
+        },
+        {
+            "id": 124,
+            "label": "O 2 Deposition",
+            "class": "Material Substance"
+        },
+        {
+            "id": 125,
+            "label": "s,",
+            "class": "Unit"
+        },
+        {
+            "id": 126,
+            "label": "mJ",
+            "class": "Unit"
+        },
+        {
+            "id": 127,
+            "label": "kINPen",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 128,
+            "label": "cellular toxicity",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 129,
+            "label": "IC50 treatment",
+            "class": "Application Field"
+        },
+        {
+            "id": 130,
+            "label": "lM (Fig",
+            "class": "Unit"
+        },
+        {
+            "id": 131,
+            "label": "nanosecond-pulsed",
+            "class": "Unit"
+        },
+        {
+            "id": 132,
+            "label": "energy input",
+            "class": "Quantity"
+        },
+        {
+            "id": 133,
+            "label": "H 2 O 2 concentrations",
+            "class": "Quantity"
+        },
+        {
+            "id": 134,
+            "label": "microsecond",
+            "class": "Unit"
+        },
+        {
+            "id": 135,
+            "label": "nanosecond pulsing",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 136,
+            "label": "energy dosages",
+            "class": "Quantity"
+        },
+        {
+            "id": 137,
+            "label": "mJ (Fig",
+            "class": "Unit"
+        },
+        {
+            "id": 138,
+            "label": "H 2 O 2 (Fig",
+            "class": "Material Substance"
+        },
+        {
+            "id": 139,
+            "label": "O 2 (Fig",
+            "class": "Material Substance"
+        },
+        {
+            "id": 140,
+            "label": "IC50",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 141,
+            "label": "lM)",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 142,
+            "label": "microsecond plasma mode",
+            "class": "Discharge Regime"
+        },
+        {
+            "id": 143,
+            "label": "pulsing frequency",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 144,
+            "label": "frequency",
+            "class": "QualitativeDescriptor"
+        },
+        {
+            "id": 145,
+            "label": "toxicity",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 146,
+            "label": "metabolic attenuation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 147,
+            "label": "cell densities,",
+            "class": "Quantity"
+        },
+        {
+            "id": 148,
+            "label": "cell densities",
+            "class": "Quantity"
+        },
+        {
+            "id": 149,
+            "label": "metabolic inhibition",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 150,
+            "label": "(Fig",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 151,
+            "label": "ll",
+            "class": "Unit"
+        },
+        {
+            "id": 152,
+            "label": "jet plasma",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 153,
+            "label": "peroxide concentrations",
+            "class": "Quantity"
+        },
+        {
+            "id": 154,
+            "label": "volume",
+            "class": "Quantity"
+        },
+        {
+            "id": 155,
+            "label": "cellular effects",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 156,
+            "label": "DBD plasma toxicity,",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 157,
+            "label": "charged and short-lived chemically active species",
+            "class": "Material Substance"
+        },
+        {
+            "id": 158,
+            "label": "argon gas",
+            "class": "Medium"
+        },
+        {
+            "id": 159,
+            "label": "H 2 O 2 -scavenging",
+            "class": "Material Substance"
+        },
+        {
+            "id": 160,
+            "label": "cell viability",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 161,
+            "label": "argon",
+            "class": "Material Substance"
+        },
+        {
+            "id": 162,
+            "label": "catalase",
+            "class": "Material Substance"
+        },
+        {
+            "id": 163,
+            "label": "DBDs",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 164,
+            "label": "external feed gas",
+            "class": "Medium"
+        },
+        {
+            "id": 165,
+            "label": "feed gas-even",
+            "class": "Medium"
+        },
+        {
+            "id": 166,
+            "label": "plasma-off mode-immediately",
+            "class": "Discharge Regime"
+        },
+        {
+            "id": 167,
+            "label": "PBS",
+            "class": "Material Substance"
+        },
+        {
+            "id": 168,
+            "label": "gas fluxes",
+            "class": "Quantity"
+        },
+        {
+            "id": 169,
+            "label": "liquid",
+            "class": "Target"
+        },
+        {
+            "id": 170,
+            "label": "dehydration",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 171,
+            "label": "oxidants",
+            "class": "Material Substance"
+        },
+        {
+            "id": 172,
+            "label": "streamers",
+            "class": "Discharge Regime"
+        },
+        {
+            "id": 173,
+            "label": "jet plasmas,",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 174,
+            "label": "abrogation of DBD plasma effects",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 175,
+            "label": "biological plasma effects",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 176,
+            "label": "plasma-treated liquids",
+            "class": "Medium"
+        },
+        {
+            "id": 177,
+            "label": "kINPen plasma jet,",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 178,
+            "label": "nitrite,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 179,
+            "label": "nitrate,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 180,
+            "label": "hydrogen",
+            "class": "Material Substance"
+        },
+        {
+            "id": 181,
+            "label": "hydrogen peroxide,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 182,
+            "label": "superoxide,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 183,
+            "label": "hydroxyl radical,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 184,
+            "label": "peroxynitrite,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 185,
+            "label": "oxygen",
+            "class": "Material Substance"
+        },
+        {
+            "id": 186,
+            "label": "deposition,",
+            "class": "Application Field"
+        },
+        {
+            "id": 187,
+            "label": "hypochlorous acid",
+            "class": "Material Substance"
+        },
+        {
+            "id": 188,
+            "label": "peroxide",
+            "class": "Material Substance"
+        },
+        {
+            "id": 189,
+            "label": "IC50",
+            "class": "Material Substance"
+        },
+        {
+            "id": 190,
+            "label": "IC50 H 2 O 2",
+            "class": "Medium"
+        },
+        {
+            "id": 191,
+            "label": "cell number",
+            "class": "Quantity"
+        },
+        {
+            "id": 192,
+            "label": "DBD cytotoxicity",
+            "class": "Material Substance"
+        },
+        {
+            "id": 193,
+            "label": "cytotoxic effectors",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 194,
+            "label": "charged particles",
+            "class": "Material Substance"
+        },
+        {
+            "id": 195,
+            "label": "target cells",
+            "class": "Material Substance"
+        },
+        {
+            "id": 196,
+            "label": "wavelength",
+            "class": "Quantity"
+        },
+        {
+            "id": 197,
+            "label": "UV radiation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 198,
+            "label": "radiation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 199,
+            "label": "nanometers",
+            "class": "Unit"
+        },
+        {
+            "id": 200,
+            "label": "plasma properties",
+            "class": "Property"
+        },
+        {
+            "id": 201,
+            "label": "cytotoxic effects",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 202,
+            "label": "jet and DBD plasma sources",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 203,
+            "label": "DBD plasma sources",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 204,
+            "label": "helium/oxygen",
+            "class": "Material Substance"
+        },
+        {
+            "id": 205,
+            "label": "helium/oxygen plasma jet,",
+            "class": "Plasma Source"
+        },
+        {
+            "id": 206,
+            "label": "short-lived species",
+            "class": "Material Substance"
+        },
+        {
+            "id": 207,
+            "label": "generation of hypochlorous acid in aqueous media",
+            "class": "Application Field"
+        },
+        {
+            "id": 208,
+            "label": "hypochlorous acid",
+            "class": "Material Substance"
+        },
+        {
+            "id": 209,
+            "label": "catalysts",
+            "class": "Material Substance"
+        },
+        {
+            "id": 210,
+            "label": "oxidants,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 211,
+            "label": "enzymatic profile",
+            "class": "Quantity"
+        },
+        {
+            "id": 212,
+            "label": "iron",
+            "class": "Material Substance"
+        },
+        {
+            "id": 213,
+            "label": "hydroxyl radicals,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 214,
+            "label": "radicals,",
+            "class": "Material Substance"
+        },
+        {
+            "id": 215,
+            "label": "synergistic effects",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 216,
+            "label": "nitrite",
+            "class": "Material Substance"
+        },
+        {
+            "id": 217,
+            "label": "membrane-based oxidases",
+            "class": "Material Substance"
+        },
+        {
+            "id": 218,
+            "label": "oxidases",
+            "class": "Material Substance"
+        },
+        {
+            "id": 219,
+            "label": "peroxynitrite",
+            "class": "Material Substance"
+        },
+        {
+            "id": 220,
+            "label": "toxic species",
+            "class": "Material Substance"
+        },
+        {
+            "id": 221,
+            "label": "trap formation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 222,
+            "label": "kINPen plasma treatment",
+            "class": "Application Field"
+        },
+        {
+            "id": 223,
+            "label": "redox enzymes",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 224,
+            "label": "antioxidant defenses",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 225,
+            "label": "in vitro cell cultures",
+            "class": "Application Field"
+        },
+        {
+            "id": 226,
+            "label": "cold plasmas",
+            "class": "Property"
+        },
+        {
+            "id": 227,
+            "label": "plasma source",
+            "class": "Property"
+        },
+        {
+            "id": 228,
+            "label": "species deposition",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 229,
+            "label": "cell membrane oxidation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 230,
+            "label": "oxidation",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 231,
+            "label": "plasma-treated agarose membranes",
+            "class": "Application Field"
+        },
+        {
+            "id": 232,
+            "label": "medical applications",
+            "class": "Application Field"
+        },
+        {
+            "id": 233,
+            "label": "metabolic/growth inhibition",
+            "class": "Physical Effect"
+        },
+        {
+            "id": 234,
+            "label": "testing other plasma sources",
+            "class": "Application Field"
+        },
+        {
+            "id": 235,
+            "label": "biological response model",
+            "class": "Method"
+        },
+        {
+            "id": 236,
+            "label": "plasma discharges.",
+            "class": "Plasma Source"
+        }
+    ]
+}
