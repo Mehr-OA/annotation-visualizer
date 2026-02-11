@@ -114,7 +114,7 @@ The visualizer expects a list of triples.
 Important Node Naming Convention:
 To utilize the auto-coloring and type detection features, nodes (subject/object) should be formatted as string strings containing a semicolon:
 
-"Label Text; Entity Type"
+`"Label Text; Entity Type"`
 
 Example:
 ```
