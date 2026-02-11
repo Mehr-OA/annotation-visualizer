@@ -75,9 +75,9 @@ The application is divided into two distinct views accessible via navigation tab
 
 ## Data Formats
 
-## 1. Annotation JSON Structure
+### 1. Annotation JSON Structure
 
-The file must contain a sentences array (for the text flow) and an entities array (for global definitions).
+The file is an output from the Plasma NER model. It contains a sentences array (for the text flow) and an entities array (for global definitions).
 
 Example:
 ```json
@@ -107,7 +107,7 @@ Example:
 }
 ```
 
-## 2. Knowledge Graph JSON Structure
+### 2. Knowledge Graph JSON Structure
 
 The visualizer expects a list of triples.
 
